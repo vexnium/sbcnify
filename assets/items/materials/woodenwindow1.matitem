@@ -1,0 +1,12 @@
+{
+  "itemName" : "woodenwindow1",
+  "rarity" : "common",
+  "inventoryIcon" : "woodenwindow1.png",
+  "dropCollision" : [-2.5, -2.0, 2.5, 2.0],
+  "shortdescription" : "\u6728\u7A97",
+  "description" : "\u65E7\u5F0F\u7684\u6728\u7A97\u6846\u3002",
+  "glitchdescription" : "Statement. A wooden window frame.",
+  "florandescription" : "Windowsss.",
+
+  "materialId" : 66
+}

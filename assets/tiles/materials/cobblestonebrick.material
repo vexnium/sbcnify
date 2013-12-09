@@ -1,0 +1,14 @@
+{
+  "materialId" : 132,
+  "materialName" : "cobblestonebrick",
+  "frames" : "cobblestonebrick.png",
+  "particleColor" : [149, 149, 149, 255],
+  "variants" : 5,
+  "itemDrop" : "cobblestonebrick",
+  "shortdescription" : "\u9E45\u5375\u77F3\u7816",
+  "description" : "\u7528\u9E45\u5375\u77F3\u5236\u6210\u7684\u5C0F\u7816\u5757\u3002",
+  "glitchdescription" : "Statement. Cobblestone.",
+  "florandescription" : "Cobblessstone.",
+  "footstepSound" : "/sfx/blocks/footstep_stone3.wav",
+  "health" : 15
+}

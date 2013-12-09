@@ -1,0 +1,17 @@
+{
+  "itemName" : "flashlight",
+  "inventoryIcon" : "flashlighticon.png",
+  "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
+  "rarity" : "Uncommon",
+  "maxStack" : 1,
+  "description" : "\u4E00\u652F\u5C0F\u5DE7\u7684\u624B\u7535\u7B52\u0021\u4F3C\u4E4E\u662F\u7531\u6211\u7684\u80FD\u91CF\u6C60\u4F9B\u7535\u7684\u3002",
+  "shortdescription" : "\u624B\u7535\u7B52",
+  "largeImage" : "flashlightlarge.png",
+  "inspectionKind" : "tool",
+  "image" : "flashlight.png",
+  "handPosition" : [-2, 0],
+  "lightPosition" : [4, 0],
+  "lightColor" : [255, 255, 255],
+  "beamWidth" : 0.1,
+  "ambientFactor" : 0.5
+}

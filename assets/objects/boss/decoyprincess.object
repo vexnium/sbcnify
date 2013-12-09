@@ -1,0 +1,41 @@
+{
+  "objectName" : "decoyprincess",
+  "rarity" : "Common",
+  "objectType" : "wire",
+  "description" : "\u516C\u4E3B\u8BF1\u9975\u3002\u6781\u5177\u8FF7\u60D1\u6027\u3002",
+  "shortdescription" : "\u516C\u4E3B\u8BF1\u9975",
+  "race" : "generic",
+  "category" : "\u5DE5\u5177",
+  "printable" : "false",
+  "apexDescription" : "replace",
+  "avianDescription" : "replace",
+  "floranDescription" : "replace",
+  "glitchDescription" : "replace",
+  "humanDescription" : "replace",
+  "hylotlDescription" : "replace",
+
+  "inventoryIcon" : "decoyprincessicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "decoyprincess.png:<color>.<frame>",
+
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 1,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ],
+
+  "animation" : "/objects/boss/decoyprincess.animation",
+  "animationParts" : {
+    "beacon" : "decoyprincess.png"
+  },
+  "animationPosition" : [-16, 0],
+
+  "scripts" : [ "/objects/wired/ironbeacon/decoyprincess.lua" ],
+  "scriptDelta" : 5
+
+}

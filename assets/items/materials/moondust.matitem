@@ -1,0 +1,12 @@
+{
+  "itemName" : "moondust",
+  "rarity" : "common",
+  "inventoryIcon" : "moondusticon.png",
+  "dropCollision" : [-2.5, -2.0, 2.5, 2.0],
+  "description" : "\u6708\u5C18\uFF0C\u5E7B\u60F3\u4E00\u822C\u7684\u5B58\u5728\u3002",
+  "shortdescription" : "\u6708\u5C18",
+  "glitchdescription" : "Delight. Moondust.",
+  "florandescription" : "Floran love glittery sssneezy dust.",
+
+  "materialId" : 77
+}

@@ -1,0 +1,40 @@
+{
+  "objectName" : "bigredbutton",
+  "rarity" : "Common",
+  "objectType" : "wire",
+
+  "category" : "\u88C5\u9970\u54C1",
+  "price" : "800",
+  "description" : "Urge... to push... rising!",
+  "shortdescription" : "Big Red Button",
+  "race" : "generic",
+
+  "apexDescription" : "Standing on this might activate something.",
+  "avianDescription" : "A large red button.",
+  "floranDescription" : "Mussst push button!",
+  "glitchDescription" : "Desire. Experiencing overwhelming urge to push button.",
+  "humanDescription" : "How can I not push this?",
+  "hylotlDescription" : "I can understand the desire to push a button when one is revealed. But you must practice self control, master your urges.",
+
+  "inventoryIcon" : "bigredbuttonicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "bigredbutton.png:<color>.off",
+      "imagePosition" : [-8, 0],
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ],
+
+  "scripts" : [ "/objects/wired/switch/switch.lua" ],
+  "scriptDelta" : 5,
+
+  "animation" : "/objects/wired/switch/switchtoggle.animation",
+  "animationParts" : {
+    "switch" : "bigredbutton.png"
+  },
+  "animationPosition" : [-8, 0],
+
+  "outboundNodes" : [ [0, 0] ]
+}

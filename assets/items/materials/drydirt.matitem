@@ -1,0 +1,12 @@
+{
+  "itemName" : "drydirt",
+  "rarity" : "common",
+  "inventoryIcon" : "drydirt.png",
+  "dropCollision" : [-2.5, -2.0, 2.5, 2.0],
+  "description" : "\u6C99\u5C18\uFF0C\u5728\u9633\u5149\u7099\u70E4\u4E0B\u53D8\u5F97\u5F88\u7ED3\u5B9E\u3002",
+  "shortdescription" : "\u5E72\u71E5\u7684\u6C99\u5C18",
+  "glitchdescription" : "Statement. Dirt. Clarification. Just dirt.",
+  "florandescription" : "Filthy dirt!",
+
+  "materialId" : 45
+}

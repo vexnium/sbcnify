@@ -1,0 +1,13 @@
+{
+  "itemName" : "wreckplatform",
+  // "twoHanded" : false,
+  "rarity" : "common",
+  "inventoryIcon" : "wreckplatform.png",
+  "dropCollision" : [-2.5, -2.0, 2.5, 2.0],
+  "description" : "\u635F\u574F\u7684\u811A\u624B\u67B6\u3002\u770B\u8D77\u6765\u4E0D\u662F\u5F88\u5B89\u5168\u3002",
+  "shortdescription" : "\u7834\u635F\u7684\u5E73\u53F0",
+  "glitchdescription" : "Alarm. This rusty scaffolding is structurally unsound.",
+  "florandescription" : "Russsty and unsssafe. Floran like.",
+
+  "materialId" : 51
+}

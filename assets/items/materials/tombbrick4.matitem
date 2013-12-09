@@ -1,0 +1,12 @@
+{
+  "itemName" : "tombbrick4",
+  "rarity" : "common",
+  "inventoryIcon" : "tombbrick4.png",
+  "dropCollision" : [-2.5, -2.0, 2.5, 2.0],
+  "shortdescription" : "\u9ED1\u6697\u7684\u5893\u5730\u7816\u5757",
+  "description" : "\u9ED1\u6697\u4E14\u6478\u8D77\u6765\u5341\u5206\u5BD2\u51B7\uFF0C\u8FD9\u4E9B\u7816\u5757\u4F3C\u4E4E\u80FD\u628A\u5C4B\u91CC\u7684\u70ED\u6C14\u90FD\u7ED9\u8D76\u51FA\u53BB\u3002",
+  "glitchdescription" : "Statement. Dusty bricks.",
+  "florandescription" : "Dusssty bricks.",
+
+  "materialId" : 63
+}

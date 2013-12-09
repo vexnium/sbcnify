@@ -1,0 +1,14 @@
+{
+  "itemName" : "beakseed",
+  "rarity" : "common",
+  "inventoryIcon" : "beakseed.png",
+  "description" : "Beakseed. Mmm crunchy.",
+  "shortdescription" : "Beakseed",
+  "handPosition" : [0, 4],
+  "effects" : [ [
+      {
+        "kind" : "food",
+        "amount" : 25
+      }
+    ] ]
+}

@@ -1,0 +1,14 @@
+{
+  "materialId" : 44,
+  "materialName" : "drysand",
+  "frames" : "drysand.png",
+  "particleColor" : [224, 189, 147, 255],
+  "variants" : 5,
+  "itemDrop" : "drysand",
+  "description" : "\u5F88\u786C\uFF0C\u88AB\u811A\u8E29\u788E\u7684\u6C99\u5B50\u3002",
+  "shortdescription" : "\u5E72\u71E5\u7684\u6C99\u5B50",
+  "glitchdescription" : "Statement. Sand.",
+  "florandescription" : "Sssandy sand.",
+  "footstepSound" : "/sfx/blocks/footstep_sand.wav",
+  "health" : 1.5
+}

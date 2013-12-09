@@ -1,0 +1,12 @@
+{
+  "itemName" : "apexshipdetails",
+  "rarity" : "common",
+  "inventoryIcon" : "apexshipdetails.png",
+  "dropCollision" : [-2.5, -2.0, 2.5, 2.0],
+  "description" : "\u4E00\u5C0F\u70B9\u91D1\u5C5E\u3002",
+  "shortdescription" : "\u91D1\u5C5E\u7269\u4F53",
+  "glitchdescription" : "Statement. A small bit of metal.",
+  "florandescription" : "Sssteel.",
+
+  "materialId" : 167
+}

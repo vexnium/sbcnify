@@ -1,0 +1,12 @@
+{
+  "itemName" : "drysand",
+  "rarity" : "common",
+  "inventoryIcon" : "drysand.png",
+  "dropCollision" : [-2.5, -2.0, 2.5, 2.0],
+  "description" : "\u5F88\u786C\uFF0C\u88AB\u811A\u8E29\u788E\u7684\u6C99\u5B50\u3002",
+  "shortdescription" : "\u5E72\u71E5\u7684\u6C99\u5B50",
+  "glitchdescription" : "Statement. Sand.",
+  "florandescription" : "Sssandy sand.",
+
+  "materialId" : 44
+}

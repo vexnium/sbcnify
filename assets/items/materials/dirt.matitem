@@ -1,0 +1,12 @@
+{
+  "itemName" : "dirtmaterial",
+  "rarity" : "common",
+  "inventoryIcon" : "dirt.png",
+  "dropCollision" : [-2.5, -2.0, 2.5, 2.0],
+  "description" : "\u770B\u8D77\u6765\u5F88\u810F\u7684\u6C99\u5C18\u3002",
+  "shortdescription" : "\u5C18\u571F\u5757",
+  "glitchdescription" : "Statement. Dirt. Clarification. Just dirt.",
+  "florandescription" : "Filthy dirt!",
+  "category" : "\u6750\u6599",
+  "materialId" : 8
+}

@@ -1,0 +1,41 @@
+{
+  "objectName" : "robot",
+  "rarity" : "Common",
+  "objectType" : "wire",
+  "description" : "An inactive robot! I wonder what happens if it's switched on.",
+  "shortdescription" : "Inactive Robot",
+  "race" : "generic",
+  "category" : "\u5DE5\u5177",
+  "printable" : "false",
+  "apexDescription" : "replace",
+  "avianDescription" : "replace",
+  "floranDescription" : "replace",
+  "glitchDescription" : "replace",
+  "humanDescription" : "replace",
+  "hylotlDescription" : "replace",
+
+  "inventoryIcon" : "robothead.png",
+  "orientations" : [
+    {
+      "dualImage" : "sleepingrobot.png:<color>.<frame>",
+
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 1,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ],
+
+  "animation" : "/objects/boss/sleepingrobot.animation",
+  "animationParts" : {
+    "beacon" : "sleepingrobot.png"
+  },
+  "animationPosition" : [-16, 0],
+
+  "scripts" : [ "/objects/wired/ironbeacon/robot.lua" ],
+  "scriptDelta" : 5
+
+}

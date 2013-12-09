@@ -1,0 +1,8 @@
+{
+  "itemName" : "plutoniumore",
+  "rarity" : "Uncommon",
+  "inventoryIcon" : "plutoniumore.png",
+  "description" : "\u5B83\u662F\u949A\u3002\u4E0A\u7B49\u7684\u71C3\u6599\u6765\u6E90\u3002",
+  "shortdescription" : "\u949A\u77FF\u77F3",
+  "fuelAmount" : 6
+}

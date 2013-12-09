@@ -1,0 +1,12 @@
+{
+  "itemName" : "woodbridge",
+  "rarity" : "common",
+  "inventoryIcon" : "woodbridge.png",
+  "dropCollision" : [-2.5, -2.0, 2.5, 2.0],
+  "shortdescription" : "\u6728\u6865\u7269\u5757",
+  "description" : "\u53E4\u8001\u7684\u6728\u5934\u5728\u98CE\u4E2D\u53D1\u51FA\u5431\u5440\u5431\u5440\u58F0\u3002",
+  "glitchdescription" : "Statement. A block perfect for building a dangerous bridge.",
+  "florandescription" : "Floran build bridge and live under it.",
+
+  "materialId" : 65
+}

@@ -1,0 +1,15 @@
+{
+  "itemName" : "techupgrade32",
+  "rarity" : "Legendary",
+  "inventoryIcon" : "techupgrade.png",
+  "image" : "techupgrade.png",
+
+  "shortdescription" : "Durasteel Tech Upgrade",
+  "description" : "Unlocks the ability to work with Aegisalt found on level 32 planets.",
+
+  // Remember you can override this with parameters, no need for more than one
+  // unlock item
+  "sectorUnlock" : "sectorx",
+  "tierRecipesUnlock" : "level32",
+  "unlockMessage" : ""
+}

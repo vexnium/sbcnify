@@ -1,0 +1,12 @@
+{
+  "itemName" : "ash",
+  "rarity" : "common",
+  "inventoryIcon" : "ash.png",
+  "dropCollision" : [-2.5, -2.0, 2.5, 2.0],
+  "description" : "\u88AB\u7D27\u7D27\u5305\u6210\u4E86\u4E00\u4E2A\u7ED3\u5B9E\u7816\u5757\u7684\u7070\u70EC\u3002",
+  "shortdescription" : "\u7070\u70EC\u7269\u5757",
+  "glitchdescription" : "Curious. A block of ash.",
+  "florandescription" : "Burny block.",
+
+  "materialId" : 37
+}

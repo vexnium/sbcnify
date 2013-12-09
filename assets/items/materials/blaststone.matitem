@@ -1,0 +1,12 @@
+{
+  "itemName" : "blaststone",
+  "rarity" : "common",
+  "inventoryIcon" : "blaststone.png",
+  "dropCollision" : [-2.5, -2.0, 2.5, 2.0],
+  "description" : "\u950B\u5229\u7684\u788E\u77F3\uFF0C\u7531\u4E8E\u53D7\u5230\u5DE8\u5927\u7684\u70ED\u91CF\u800C\u70B8\u788E\u4E86\u3002",
+  "shortdescription" : "\u70B8\u788E\u7684\u77F3\u5757",
+  "glitchdescription" : "Analysis. Blaststone.",
+  "florandescription" : "Floran make ssstone go boom.",
+
+  "materialId" : 38
+}

@@ -1,0 +1,49 @@
+{
+  "itemName" : "fryingpan",
+  "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
+  "maxStack" : 1,
+  "rarity" : "Legendary",
+  "description" : "A plain, golden sword probably worth a lot of money.",
+  "shortdescription" : "FryingPan",
+  "image" : "fryingpan.png",
+  "firePosition" : [-2, 4],
+  "fireTime" : 0.7,
+  "fireAfterWindup" : true,
+  "soundEffect" : { "fireSound" : [ { "file" : "/sfx/melee/swing_twohanded.wav" } ] },
+  "projectileType" : "fryingpanswoosh1",
+  "projectile" : {
+    "speed" : 0.1,
+    "power" : 50
+  },
+
+  "stances" : {
+    "idle" : {
+      "twoHanded" : false,
+      "armAngle" : 999,
+      "swordAngle" : 999,
+      "handPosition" : [-2, -6],
+      "duration" : 0.1
+    },
+    "windup" : {
+      "twoHanded" : false,
+      "armAngle" : 90,
+      "swordAngle" : 90,
+      "handPosition" : [-2, -6],
+      "duration" : 0.2,
+      "statusEffects" : [
+        { "kind" : "shieldsuppressed", "duration" : 0.1 }
+      ]
+    },
+    "cooldown" : {
+      "twoHanded" : false,
+      "armAngle" : -90,
+      "swordAngle" : -90,
+      "handPosition" : [-2, -6],
+      "duration" : 0.4,
+      "statusEffects" : [
+        { "kind" : "shieldsuppressed", "duration" : 0.1 }
+      ]
+    }
+  }
+}
+

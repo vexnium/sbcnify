@@ -1,0 +1,13 @@
+{
+  "itemName" : "boltedmilk",
+  "rarity" : "common",
+  "inventoryIcon" : "boltedmilk.png",
+  "description" : "It's milk with a twist!",
+  "shortdescription" : "Bolted Milk",
+  "effects" : [ [
+      {
+        "kind" : "food",
+        "amount" : 5
+      }
+    ] ]
+}

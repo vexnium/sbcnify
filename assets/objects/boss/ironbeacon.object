@@ -1,0 +1,41 @@
+{
+  "objectName" : "ironbeacon",
+  "rarity" : "Common",
+  "objectType" : "wire",
+  "description" : "\u5384\u8FD0\u706F\u5854\u3002\u8C01\u53C8\u77E5\u9053\u4EC0\u4E48\u4EBA\u80FD\u53D1\u73B0\u5B83\u5462\uFF1F",
+  "shortdescription" : "\u5384\u8FD0\u706F\u5854",
+  "race" : "generic",
+  "category" : "\u5DE5\u5177",
+  "printable" : "false",
+  "apexDescription" : "A distress beacon. I hope the person who left it is okay.",
+  "avianDescription" : "A distress beacon. Someone must be in trouble.",
+  "floranDescription" : "Floran help as well as hunt. Sssometimes.",
+  "glitchDescription" : "Analysis. This distress beacon is transmitting at a number of frequencies.",
+  "humanDescription" : "This beacon's sending out a distres call.",
+  "hylotlDescription" : "Someone needs help. Protecting the weak is a worthwhile pursuit.",
+
+  "inventoryIcon" : "ironbeaconicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "ironbeacon.png:<color>.<frame>",
+
+      "imagePosition" : [-16, 0],
+      "frames" : 12,
+      "animationCycle" : 2,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ],
+
+  "animation" : "/objects/wired/ironbeacon/ironbeacon.animation",
+  "animationParts" : {
+    "beacon" : "ironbeacon.png"
+  },
+  "animationPosition" : [-16, 0],
+
+  "scripts" : [ "/objects/wired/ironbeacon/ironbeacon.lua" ],
+  "scriptDelta" : 5
+
+}

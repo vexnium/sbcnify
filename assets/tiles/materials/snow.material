@@ -1,0 +1,15 @@
+{
+  "materialId" : 30,
+  "materialName" : "snow",
+  "frames" : "snow.png",
+  "particleColor" : [245, 249, 250, 255],
+  "variants" : 5,
+  "itemDrop" : "snow",
+  "shortdescription" : "\u96EA",
+  "description" : "\u67D4\u8F6F\u800C\u84EC\u677E\u7684\u96EA\u3002",
+  "glitchdescription" : "Statement. Snow.",
+  "florandescription" : "Sssnowy ssstuff.",
+  "footstepSound" : "/sfx/blocks/footstep_snow.wav",
+  "health" : 1.3,
+  "damageTable" : "/tiles/flammableDamage.config"
+}

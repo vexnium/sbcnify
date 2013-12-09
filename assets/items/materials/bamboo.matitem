@@ -1,0 +1,12 @@
+{
+  "itemName" : "bamboo",
+  "rarity" : "common",
+  "inventoryIcon" : "bamboo.png",
+  "dropCollision" : [-2.5, -2.0, 2.5, 2.0],
+  "description" : "\u7AF9\u5B50",
+  "shortdescription" : "\u7AF9\u5B50",
+  "glitchdescription" : "Statement. Bamboo.",
+  "florandescription" : "Sssticks.",
+
+  "materialId" : 117
+}

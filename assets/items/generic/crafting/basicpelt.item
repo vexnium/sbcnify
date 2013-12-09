@@ -1,0 +1,7 @@
+{
+  "itemName" : "basic",
+  "rarity" : "common",
+  "inventoryIcon" : "basicpelt.png",
+  "description" : "It's the pelt of an animal.",
+  "shortdescription" : "Pelt"
+}

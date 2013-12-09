@@ -1,0 +1,15 @@
+{
+  "materialId" : 6,
+  "materialName" : "darksmoothstone",
+  "frames" : "darksmoothstone.png",
+  "particleColor" : [132, 134, 132, 255],
+  "variants" : 5,
+  "shortdescription" : "Dark Smooth SDone.",
+  "description" : "A dark, smooth stone block. Mysterious.",
+  "glitchdescription" : "Analysis. A dark block of unknown origin.",
+  "florandescription" : "Sssmooth block.",
+  "itemDrop" : "darksmoothstonematerial",
+  "multicolored" : true,
+  "footstepSound" : "/sfx/blocks/footstep_stone2.wav",
+  "health" : 30
+}

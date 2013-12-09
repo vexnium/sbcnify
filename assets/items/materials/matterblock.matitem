@@ -1,0 +1,12 @@
+{
+  "itemName" : "matterblock",
+  "rarity" : "common",
+  "inventoryIcon" : "matterblock.png",
+  "dropCollision" : [-2.5, -2.0, 2.5, 2.0],
+  "description" : "\u7269\u8D28\u5757\uFF0C\u7531\u7269\u8D28\u7EC4\u6210\u7684\u7269\u5757\u3002",
+  "shortdescription" : "\u7269\u8D28\u5757",
+  "glitchdescription" : "Statement. A matter block.",
+  "florandescription" : "Matter block!",
+
+  "materialId" : 174
+}

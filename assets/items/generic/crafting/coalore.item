@@ -1,0 +1,8 @@
+{
+  "itemName" : "coalore",
+  "rarity" : "common",
+  "inventoryIcon" : "coalore.png",
+  "description" : "\u7164\u3002\u5F53\u505A\u71C3\u6599\u4E5F\u8BB8\u4E0D\u9519\u3002",
+  "shortdescription" : "\u7164\u77FF\u77F3",
+  "fuelAmount" : 2
+}

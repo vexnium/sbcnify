@@ -1,0 +1,15 @@
+{
+  "itemName" : "greenstim",
+  "rarity" : "common",
+  "inventoryIcon" : "greenstim.png",
+  "description" : "A stimpack full of green liquid",
+  "shortdescription" : "Green Stim Pack",
+  "handPosition" : [8, 0],
+  "effects" : [ [
+      {
+        "kind" : "runboostinitiator",
+        "amount" : 0.5
+      }
+    ] ],
+  "emote" : ""
+}

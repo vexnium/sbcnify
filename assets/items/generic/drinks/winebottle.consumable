@@ -1,0 +1,14 @@
+{
+  "itemName" : "winebottle",
+  "rarity" : "common",
+  "inventoryIcon" : "winebottle.png",
+  "description" : "A bottle of smooth red wine.",
+  "shortdescription" : "Wine",
+  "handPosition" : [0, -4],
+  "effects" : [ [
+      {
+        "kind" : "food",
+        "amount" : 20
+      }
+    ] ]
+}

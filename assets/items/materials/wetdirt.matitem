@@ -1,0 +1,12 @@
+{
+  "itemName" : "wetdirt",
+  "rarity" : "common",
+  "inventoryIcon" : "wetdirt.png",
+  "dropCollision" : [-2.5, -2.0, 2.5, 2.0],
+  "description" : "\u5B83\u65E2\u4E0D\u662F\u6C99\u4E5F\u4E0D\u662F\u6CE5\u5DF4\u002E\u002E\u5B83\u662F\u6E7F\u7684\u7070\u5C18\uFF01",
+  "shortdescription" : "\u6E7F\u5C18",
+  "glitchdescription" : "Awestruck. I never thought I would live to see such wet dirt.",
+  "florandescription" : "Floran take bath in wet dirt.",
+
+  "materialId" : 49
+}

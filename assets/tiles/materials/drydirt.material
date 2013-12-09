@@ -1,0 +1,15 @@
+{
+  "materialId" : 45,
+  "materialName" : "drydirt",
+  "frames" : "drydirt.png",
+  "particleColor" : [201, 137, 100, 255],
+  "variants" : 5,
+  "itemDrop" : "drydirt",
+  "description" : "\u6C99\u5C18\uFF0C\u5728\u9633\u5149\u7099\u70E4\u4E0B\u53D8\u5F97\u5F88\u7ED3\u5B9E\u3002",
+  "shortdescription" : "\u5E72\u71E5\u7684\u6C99\u5C18",
+  "glitchdescription" : "Statement. Dirt. Clarification. Just dirt.",
+  "florandescription" : "Filthy dirt!",
+  "footstepSound" : "/sfx/blocks/footstep_drydirt.wav",
+  "tillableMod" : 31,
+  "health" : 1.5
+}

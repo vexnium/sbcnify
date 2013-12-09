@@ -1,0 +1,12 @@
+{
+  "itemName" : "apexshipwall",
+  "rarity" : "common",
+  "inventoryIcon" : "apexshipwall.png",
+  "dropCollision" : [-2.5, -2.0, 2.5, 2.0],
+  "description" : "\u4E94\u5F69\u6591\u6593\u7684\u58C1\u6302\u5F0F\u9762\u677F",
+  "shortdescription" : "\u58C1\u6302\u5F0F\u9762\u677F",
+  "glitchdescription" : "Analysis. A wall panel.",
+  "florandescription" : "Wall.",
+
+  "materialId" : 169
+}

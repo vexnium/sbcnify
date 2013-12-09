@@ -1,0 +1,12 @@
+{
+  "itemName" : "vine",
+  "rarity" : "common",
+  "inventoryIcon" : "vineicon.png",
+  "dropCollision" : [-2.5, -2.0, 2.5, 2.0],
+  "shortdescription" : "\u85E4",
+  "description" : "\u539A\u539A\u7684\u4E00\u5708\u85E4\u8513\uFF0C\u5B83\u4EEC\u770B\u8D77\u6765\u5F88\u7ED3\u5B9E\u3002",
+  "glitchdescription" : "Statement. Some vines.",
+  "florandescription" : "Floran like vinesss.",
+
+  "materialId" : 171
+}

@@ -1,0 +1,38 @@
+{
+  "objectName" : "tier6techchest",
+  "printable" : false,
+  "rarity" : "Common",
+  "objectType" : "container",
+
+  "category" : "\u5B58\u50A8\u8BBE\u5907",
+  "price" : "500",
+  "description" : "A chest with bright glowing markings throughout.",
+  "shortdescription" : "Tier 6 Tech Chest",
+  "race" : "generic",
+
+  "apexDescription" : "Tiy needs to change this",
+  "avianDescription" : "Tiy needs to change this",
+  "floranDescription" : "Tiy needs to change this",
+  "glitchDescription" : "Tiy needs to change this",
+  "humanDescription" : "Tiy needs to change this",
+  "hylotlDescription" : "Tiy needs to change this",
+
+  "inventoryIcon" : "tier6techchesticon.png",
+  "orientations" : [
+    {
+      "dualImage" : "tier6techchest.png:<color>.<key>",
+      "imagePosition" : [-8, 0],
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+
+  ],
+
+  "openSounds" : [ "/sfx/objects/chest_small_open.wav" ],
+  "closeSounds" : [ "/sfx/objects/chest_small_close.wav" ],
+  "slotCount" : 16,
+  "uiConfig" : "/interface/chests/chest%slots%.config",
+  "frameCooldown" : 67,
+  "autoCloseCooldown" : 3600
+}

@@ -1,0 +1,12 @@
+{
+  "itemName" : "aztecmaterial",
+  "rarity" : "common",
+  "inventoryIcon" : "aztec.png",
+  "dropCollision" : [-2.5, -2.0, 2.5, 2.0],
+  "shortdescription" : "\u5B57\u7B26\u7816\u5757",
+  "description" : "\u6709\u4E00\u4E9B\u5C0F\u5B57\u523B\u5728\u77F3\u5934\u4E0A\u3002",
+  "glitchdescription" : "Cryptography. I do not know what these glyphs say.",
+  "florandescription" : "Floran not can read this.",
+
+  "materialId" : 1
+}

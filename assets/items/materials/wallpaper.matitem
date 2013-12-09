@@ -1,0 +1,12 @@
+{
+  "itemName" : "wallpaper",
+  "rarity" : "common",
+  "inventoryIcon" : "wallpaper.png",
+  "dropCollision" : [-2.5, -2.0, 2.5, 2.0],
+  "description" : "\u4E3A\u6211\u4EEC\u4E2D\u6240\u6709\u7684\u9AD8\u7B49\u9752\u86D9\u51C6\u5907\u7684\u7CBE\u7F8E\u58C1\u7EB8\u3002",
+  "shortdescription" : "\u7ECF\u5178\u58C1\u7EB8",
+  "glitchdescription" : "Derisive. A vile Hylotl pattern.",
+  "florandescription" : "Wall paper remind Floran of fishmen.",
+
+  "materialId" : 99
+}

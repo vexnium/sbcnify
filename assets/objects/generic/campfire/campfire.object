@@ -1,0 +1,80 @@
+{
+  "objectName" : "campfire",
+  "printable" : false,
+  "rarity" : "Common",
+  "description" : "\u4f59\u70ec\u4e0d\u65ad\u5730\u4ece\u7bdd\u706b\u5806\u91cc\u6563\u843d\u51fa\u6765\uff0c\u6e29\u6696\u7740\u5468\u56f4\u7684\u7a7a\u6c14\u3002",
+  "shortdescription" : "\u7bdd\u706b\u5806",
+  "subtitle" : "\u9732\u5929\u70e7\u70e4.",
+  "race" : "generic",
+  "category" : "\u5236\u4F5C\u6750\u6599",
+  "price" : "200",
+  "objectType" : "container",
+
+  "hydrophobic" : true,
+
+  "apexDescription" : "A healthy camp fire.",
+  "avianDescription" : "Warmth and light.",
+  "floranDescription" : "Floran afraid of camp fire. But Floran likesss to cook.",
+  "glitchDescription" : "Idea. I want to roast marshmallows.",
+  "humanDescription" : "I've always enjoyed watching the flames of a camp fire dance.",
+  "hylotlDescription" : "A camp fire, perfect for cooking food.",
+
+  "lightColor" : [229, 218, 207],
+  "flickerDistance" : 0.5,
+  "flickerStrength" : 0.1,
+
+  "particleEmitter" : {
+    "emissionRate" : 1.0,
+    "emissionVariance" : 0.5,
+
+    "particle" : {
+      "type" : "ember",
+      "size" : "1.0",
+      "color" : [255, 100, 0, 255],
+      "light" : [150, 50, 50],
+      "fade" : 0.9,
+      "initialVelocity" : [0.0, 5.0],
+      "finalVelocity" : [0.0, 3.0],
+      "approach" : [0, 20],
+      "timeToLive" : 2,
+      "layer" : "middle"
+    },
+
+    "particleVariance" : {
+      "initialVelocity" : [0.5, 2.0]
+    }
+  },
+
+  "inventoryIcon" : "campfireicon.png",
+  "orientations" : [
+    {
+      "image" : "campfire.png:<color>.<frame>",
+
+      "imagePosition" : [0, 0],
+      "frames" : 4,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ],
+
+  "soundEffect" : "/sfx/objects/campfire.wav",
+
+  "statusEffects" : [
+    {
+      "kind" : "Warmth",
+      "amount" : 70,
+      "range" : 8
+    }
+  ],
+
+  "recipeGroup" : "cooking",
+  "openSounds" : [ "/sfx/objects/campfire_use.wav" ],
+  "slotCount" : 2,
+  "uiConfig" : "/interface/objectcrafting/campfire.config",
+  "frameCooldown" : 67,
+  "autoCloseCooldown" : 3600
+
+}

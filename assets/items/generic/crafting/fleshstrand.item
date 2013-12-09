@@ -1,0 +1,10 @@
+{
+  "itemName" : "fleshstrand",
+  "rarity" : "common",
+  "inventoryIcon" : "fleshstrand.png",
+  "description" : "A long, sinewy strand of flesh.",
+  "shortdescription" : "Flesh Strand",
+  "learnBlueprintsOnPickup" : [
+    "fleshblock"
+  ]
+}

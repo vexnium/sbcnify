@@ -1,0 +1,12 @@
+{
+  "itemName" : "cobblestonematerial",
+  "rarity" : "common",
+  "inventoryIcon" : "cobblestone.png",
+  "dropCollision" : [-2.5, -2.0, 2.5, 2.0],
+  "shortdescription" : "\u9E45\u5375\u77F3",
+  "description" : "\u575A\u786C\u7684\u77F3\u5934\uFF0C\u6478\u8D77\u6765\u5F88\u5149\u6ED1\u3002",
+  "glitchdescription" : "Statement. Cobblestones.",
+  "florandescription" : "Cobblessstone.",
+
+  "materialId" : 3
+}

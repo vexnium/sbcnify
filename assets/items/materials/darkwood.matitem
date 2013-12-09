@@ -1,0 +1,12 @@
+{
+  "itemName" : "darkwoodmaterial",
+  "rarity" : "common",
+  "inventoryIcon" : "darkwood.png",
+  "dropCollision" : [-2.5, -2.0, 2.5, 2.0],
+  "description" : "\u6211\u60f3\u6211\u770b\u89c1\u5916\u661f\u86c0\u866b\u4e86\u3002",
+  "shortdescription" : "\u6728\u677f",
+  "glitchdescription" : "Statement. Wood.",
+  "florandescription" : "Sssplintery wood.",
+
+  "materialId" : 7
+}

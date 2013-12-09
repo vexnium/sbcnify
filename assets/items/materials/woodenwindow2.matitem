@@ -1,0 +1,12 @@
+{
+  "itemName" : "woodenwindow2",
+  "rarity" : "common",
+  "inventoryIcon" : "woodenwindow2.png",
+  "dropCollision" : [-2.5, -2.0, 2.5, 2.0],
+  "shortdescription" : "\u6728\u8D28\u767E\u53F6\u7A97",
+  "description" : "\u65E7\u5F0F\u7684\u6728\u8D28\u767E\u53F6\u7A97\uFF0C\u53EA\u6709\u5F88\u5C11\u4E00\u90E8\u5206\u5149\u80FD\u901A\u8FC7\u5B83\u7167\u5C04\u8FDB\u6765\u3002",
+  "glitchdescription" : "Statement. Wooden blinds.",
+  "florandescription" : "Window blindsss.",
+
+  "materialId" : 67
+}

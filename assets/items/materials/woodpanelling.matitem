@@ -1,0 +1,12 @@
+{
+  "itemName" : "woodpanelling",
+  "rarity" : "common",
+  "inventoryIcon" : "woodpanelling.png",
+  "dropCollision" : [-2.5, -2.0, 2.5, 2.0],
+  "description" : "\u8FD9\u79CD\u6728\u6805\u680F\u662F\u90A3\u79CD\u8BA9\u4EBA\u611F\u89C9\u4E0D\u597D\u7684\u590D\u53E4\u98CE\u3002",
+  "shortdescription" : "\u6728\u6805\u680F",
+  "glitchdescription" : "Statement. Wooden panelling.",
+  "florandescription" : "Wood panelsss.",
+
+  "materialId" : 105
+}

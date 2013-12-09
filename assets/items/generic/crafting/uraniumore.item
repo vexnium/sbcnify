@@ -1,0 +1,8 @@
+{
+  "itemName" : "uraniumore",
+  "rarity" : "Uncommon",
+  "inventoryIcon" : "uraniumore.png",
+  "description" : "\u5B83\u662F\u94C0\uFF0C\u4E0A\u7B49\u7684\u71C3\u6599\u6765\u6E90\u3002",
+  "shortdescription" : "\u94C0\u77FF\u77F3",
+  "fuelAmount" : 4
+}

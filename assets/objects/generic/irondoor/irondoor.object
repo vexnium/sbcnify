@@ -1,0 +1,44 @@
+{
+  "objectName" : "irondoor",
+  "rarity" : "Common",
+  "objectType" : "new",
+
+  "category" : "\u95E8",
+  "price" : "500",
+  "description" : "\u4E00\u6247\u7ED3\u5B9E\u7684\u94C1\u95E8\u3002\u8BA9\u5176\u4ED6\u4E1C\u897F\u8FDB\u4E0D\u6765\u002E\u002E\u002E\u4E5F\u51FA\u4E0D\u53BB\u3002",
+  "shortdescription" : "\u94C1\u95E8",
+  "race" : "generic",
+
+  "apexDescription" : "A tough-looking iron door. Reminds me of Big Ape's correctional facilities.",
+  "avianDescription" : "A sturdy door.",
+  "floranDescription" : "Door grows from ceiling like plant, but ssstronger.",
+  "glitchDescription" : "Admiring. Like a Glitch portcullis, but even sturdier.",
+  "humanDescription" : "An iron door. I wouldn't want to get trapped under here.",
+  "hylotlDescription" : "A boorish iron door. Practical, if unremarkable.",
+
+  "inventoryIcon" : "irondooricon.png",
+  "orientations" : [
+    {
+      "image" : "irondoor.png:default",
+      "imagePosition" : [-16, 0],
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom", "top" ]
+    }
+  ],
+
+  "scripts" : [ "/objects/wired/door/door.lua" ],
+  "scriptDelta" : 5,
+
+  "animation" : "/objects/wired/door/door.animation",
+  "animationParts" : {
+    "door" : "irondoor.png"
+  },
+  "animationPosition" : [-16, 0],
+
+  "inboundNodes" : [ [-1, 4] ],
+  "outboundNodes" : [ [1, 0] ],
+
+  "openSounds" : [ "/sfx/objects/wooddoor_open.wav" ],
+  "closeSounds" : [ "/sfx/objects/wooddoor_close.wav" ]
+}

@@ -1,0 +1,13 @@
+{
+  "itemName" : "tribalplatform",
+  // "twoHanded" : false,
+  "rarity" : "common",
+  "inventoryIcon" : "templeplatformicon.png",
+  "dropCollision" : [-2.5, -2.0, 2.5, 2.0],
+  "description" : "\u7528\u7ED3\u5B9E\u7684\u5BFA\u5E99\u5F0F\u7816\u5757\u505A\u6210\u7684\u697C\u68AF\u3002",
+  "shortdescription" : "\u5BFA\u5E99\u5F0F\u5E73\u53F0",
+  "glitchdescription" : "Statement. A platform built from temple bricks.",
+  "florandescription" : "Platformsss.",
+
+  "materialId" : 69
+}

@@ -1,0 +1,82 @@
+{
+  "objectName" : "wildbananaseed",
+  "rarity" : "Common",
+  "category" : "\u79CD\u690D\u7269",
+  "description" : "\u8F6C\u57FA\u56E0\u9999\u8549\u3002\u4F1A\u8BA9\u9664\u0041\u0070\u0065\u0078\u65CF\u4EE5\u5916\u7684\u4EFB\u4F55\u4EBA\u611F\u5230\u6076\u5FC3\u3002",
+  "shortdescription" : "\u9999\u8549\u79CD\u5B50",
+  "objectType" : "farmable",
+  "printable" : false, 
+  "objectItem" : "bananaseed",
+
+  "apexDescription" : "The most delicious of all fruit. Along with freedom, owning a banana farm is every Apex's dream.",
+  "avianDescription" : "These bananas taste unusual.",
+  "floranDescription" : "Sssmells like a monkeyman.",
+  "glitchDescription" : "Cynical. The Apex love these, but The Glitch see nothing special.",
+  "humanDescription" : "It's like a banana, but even more banana-y.",
+  "hylotlDescription" : "A modified banana, engineered for those with uncultured taste-buds.",
+
+  "inventoryIcon" : "bananaseedicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "bananaseed.png:<color>.<stage>.<alt>",
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ],
+
+  "interactionTransition" : {
+    "2" : {
+      "dropOptions" : [
+        0.3,
+        [
+          {
+            "name" : "banana",
+            "count" : 1
+          },
+          {
+            "name" : "bananaseed",
+            "count" : 1
+          }
+        ],
+        [
+          {
+            "name" : "banana",
+            "count" : 1
+          },
+          {
+            "name" : "plantfibre",
+            "count" : 1
+          }
+        ],
+        [
+          {
+            "name" : "banana",
+            "count" : 1
+          }
+        ]
+      ],
+      "command" : "die"
+    }
+  },
+  "growing" : {
+    "0" : {
+      "duration" : [2820, 2940],
+      "success" : 1,
+      "failure" : 3
+    },
+    "1" : {
+      "duration" : [2820, 2940],
+      "success" : 2,
+      "failure" : 3
+    }
+  },
+  "stageAlts" : {
+    "count" : 4,
+    "2" : 5
+  }
+}

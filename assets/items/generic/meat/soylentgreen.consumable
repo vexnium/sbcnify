@@ -1,0 +1,13 @@
+{
+  "itemName" : "soylentgreen",
+  "rarity" : "common",
+  "inventoryIcon" : "soylentgreen.png",
+  "description" : "I wonder what this is...",
+  "shortdescription" : "Soylent Green",
+  "effects" : [ [
+      {
+        "kind" : "food",
+        "amount" : 25
+      }
+    ] ]
+}

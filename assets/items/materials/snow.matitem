@@ -1,0 +1,16 @@
+{
+  "itemName" : "snow",
+  "rarity" : "common",
+  "inventoryIcon" : "snow.png",
+  "dropCollision" : [-2.5, -2.0, 2.5, 2.0],
+  "shortdescription" : "\u96EA",
+  "description" : "\u67D4\u8F6F\u800C\u84EC\u677E\u7684\u96EA\u3002",
+  "glitchdescription" : "Statement. Snow.",
+  "florandescription" : "Sssnowy ssstuff.",
+
+  "materialId" : 30,
+
+  "learnBlueprintsOnPickup" : [
+    "snowball"
+  ]
+}

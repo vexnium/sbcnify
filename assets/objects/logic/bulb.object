@@ -1,0 +1,45 @@
+{
+  "objectName" : "bulb",
+  "rarity" : "Common",
+  "objectType" : "wire",
+  "description" : "todo",
+  "shortdescription" : "todo",
+  "race" : "human",
+
+  "category" : "\u7535\u8DEF\u88C5\u7F6E",
+  "price" : "300",
+
+  "apexDescription" : "todo",
+  "avianDescription" : "todo",
+  "floranDescription" : "todo",
+  "glitchDescription" : "todo",
+  "humanDescription" : "todo",
+  "hylotlDescription" : "todo",
+
+  "inventoryIcon" : "bulb.png:default.1",
+  "orientations" : [
+    {
+      "image" : "bulb.png:<color>.off",
+      "imagePosition" : [-8, -8],
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ],
+
+  "scripts" : [ "/objects/logic/logic.lua" ],
+  "scriptDelta" : 1,
+
+  "animation" : "/objects/logic/logic.animation",
+
+  "animationParts" : {
+    "switch" : "bulb.png"
+  },
+  "animationPosition" : [-8, -8],
+
+  "inboundNodes" : [ [-1, 0] ],
+  "outboundNodes" : [ ],
+
+  "gates" : 1,
+  "truthtable" : [ false, true ]
+}

@@ -1,0 +1,8 @@
+{
+  "itemName" : "solariumore",
+  "rarity" : "Rare",
+  "inventoryIcon" : "solariumore.png",
+  "description" : "\u5B83\u662F\u592A\u9633\u4E0A\u7684\u91D1\u5C5E\u3002\u71C3\u6599\u7684\u7EDD\u4F73\u6765\u6E90\u3002",
+  "shortdescription" : "\u592A\u9633\u77F3",
+  "fuelAmount" : 8
+}

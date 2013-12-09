@@ -1,0 +1,83 @@
+{
+  "objectName" : "wildautomatoseed",
+  "rarity" : "Common",
+  "category" : "\u79CD\u690D\u7269",
+  "description" : "\u87BA\u4E1D\u756A\u8304\uFF01\u98DF\u7528\u65F6\u6CE8\u610F\u628A\u87BA\u4E1D\u5410\u51FA\u6765\u3002",
+  "shortdescription" : "\u87BA\u4E1D\u756A\u8304\u79CD\u5B50",
+  "objectType" : "farmable",
+  "printable" : false, 
+  "objectItem" : "automatoseed",
+
+  "apexDescription" : "Automatos... pretty standard, if you don't break your teeth on the screws.",
+  "avianDescription" : "Automatos. The seeds are pretty tasty by themselves.",
+  "floranDescription" : "Flesshy, juicy and red, with crunchy bitsss. Like humansss.",
+  "glitchDescription" : "Critical. Others remove the screws. The Glitch feel they enhance the flavour.",
+  "humanDescription" : "A tomato filled with screws. Tasty AND dangerous.",
+  "hylotlDescription" : "A sweet-tasting fruit. Fine for common, unremarkable dishes.",
+
+  "inventoryIcon" : "automatoseedicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "automatoseed.png:<color>.<stage>.<alt>",
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "requireTilledAnchors" : false,
+      "anchors" : [ "bottom" ]
+
+    }
+  ],
+
+  "interactionTransition" : {
+    "2" : {
+      "dropOptions" : [
+        0.3,
+        [
+          {
+            "name" : "automato",
+            "count" : 1
+          },
+          {
+            "name" : "automatoseed",
+            "count" : 1
+          }
+        ],
+        [
+          {
+            "name" : "automato",
+            "count" : 1
+          },
+          {
+            "name" : "plantfibre",
+            "count" : 1
+          }
+        ],
+        [
+          {
+            "name" : "automato",
+            "count" : 1
+          }
+        ]
+      ],
+      "command" : "die"
+    }
+  },
+  "growing" : {
+    "0" : {
+      "duration" : [1380, 1500],
+      "success" : 1,
+      "failure" : 3
+    },
+    "1" : {
+      "duration" : [1380, 1500],
+      "success" : 2,
+      "failure" : 3
+    }
+  },
+  "stageAlts" : {
+    "count" : 4,
+    "2" : 5
+  }
+}

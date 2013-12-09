@@ -1,0 +1,16 @@
+{
+  "id" : "hylotltutorial.gearup",
+  "title" : "^#9be3d6;Fish Out Of Water",
+  "text" : "You have been drifting in space for some time, unable to choose a planet to explore.\u4F60\u7684\u98DE\u8239\u8017\u5C3D\u4E86\u71C3\u6599\u505C\u9760\u5728\u4E86\u4E00\u4E2A\u672A\u77E5\u661F\u7403\u7684\u8F68\u9053\u4E0A\u3002\u5728\u524D\u5F80\u5BFB\u627E\u71C3\u6599\u7684\u8DEF\u4E0A\u4E4B\u524D\uFF0C^green;\u641C\u7D22\u4F60\u98DE\u8239\u4E0A\u7684\u5B58\u50A8\u8BBE\u65BD\u5E76\u627E\u5230\u4E00\u4E2A^pink;\u7269\u8D28\u64CD\u7EB5\u88C5\u7F6E^white;.\u6309\u4E0B^green;E ^white;\u53EF\u4EE5\u548C\u7269\u4F53\u4E92\u52A8",
+  "completionText" : "\u5e72\u5f97\u597d\uff01\u7269\u8d28\u64cd\u7eb5\u88c5\u7f6e\u80fd\u8ba9\u4f60\u64cd\u7eb5\u6e38\u620f\u4e16\u754c\u91cc\u51e0\u4e4e\u6240\u6709\u7684\u4e1c\u897f\u3002",
+  "conditions" : [
+    { "kind" : "gather", "item" : [ "beamaxe", 1] }
+  ],
+  "moneyRange" : [10, 10],
+  "rewards" : [
+    [ [ "beamaxe", 1] ]
+  ],
+  "planetMode" : "none",
+  "questDungeons" : [ ],
+  "followUp" : "tutorial2.gearup"
+}

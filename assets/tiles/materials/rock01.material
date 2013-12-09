@@ -1,0 +1,14 @@
+{
+  "materialId" : 16,
+  "materialName" : "rock01",
+  "frames" : "rock01.png",
+  "particleColor" : [133, 122, 109, 255],
+  "variants" : 5,
+  "itemDrop" : "cobblestonematerial",
+  "description" : "\u5F88\u7C97\u7CD9\uFF0C\u672A\u7ECF\u6253\u78E8\u7684\u77F3\u5934\u3002",
+  "shortdescription" : "\u5CA9\u77F3\u5757",
+  "glitchdescription" : "Statement. Rock.",
+  "florandescription" : "Rocksss.",
+  "footstepSound" : "/sfx/blocks/footstep_stone.wav",
+  "health" : 12
+}

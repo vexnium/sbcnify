@@ -1,0 +1,44 @@
+{
+  "objectName" : "bunkermotiondetector",
+  "rarity" : "Common",
+  "objectType" : "wire",
+  "description" : "todo",
+  "shortdescription" : "todo",
+  "race" : "human",
+
+  "category" : "\u7535\u8DEF\u88C5\u7F6E",
+  "price" : "300",
+
+  "apexDescription" : "todo",
+  "avianDescription" : "todo",
+  "floranDescription" : "todo",
+  "glitchDescription" : "todo",
+  "humanDescription" : "todo",
+  "hylotlDescription" : "todo",
+
+  "inventoryIcon" : "bunkermotiondetectoricon.png",
+  "orientations" : [
+    {
+      "image" : "bunkermotiondetector.png:<color>.off",
+      "imagePosition" : [-8, -8],
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ],
+
+  "scripts" : [ "/objects/wired/motiondetector/motiondetector.lua" ],
+  "scriptDelta" : 12,
+
+  "animation" : "/objects/wired/motiondetector/motiondetector.animation",
+
+  "animationParts" : {
+    "switch" : "bunkermotiondetector.png"
+  },
+  "animationPosition" : [-8, -8],
+
+  "outboundNodes" : [ [0, 0] ],
+
+  "detectRadius" : 3,
+  "detectTickDuration" : 10
+}

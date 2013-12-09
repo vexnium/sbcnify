@@ -1,0 +1,15 @@
+{
+  "materialId" : 53,
+  "materialName" : "mud",
+  "frames" : "mud.png",
+  "particleColor" : [127, 121, 102, 255],
+  "variants" : 5,
+  "itemDrop" : "mud",
+  "description" : "Thick and sticky mud.",
+  "shortdescription" : "Mud",
+  "glitchdescription" : "Statement. The muddiest of mud.",
+  "florandescription" : "Mud. Floran like make messsss.",
+  "footstepSound" : "/sfx/blocks/footstep_mud.wav",
+  "tillableMod" : 31,
+  "health" : 1
+}
