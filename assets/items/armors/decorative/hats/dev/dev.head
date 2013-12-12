@@ -3,8 +3,8 @@
   "inventoryIcon" : "icons.png:head",
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
-  "rarity" : "common",
-  "description" : "Hard Hat. It's Hard.",
+  "rarity" : "Common",
+  "description" : "Hard Hat. It's Hard. And a hat.",
   "shortdescription" : "Hard Hat",
   "inspectionKind" : "armor",
 

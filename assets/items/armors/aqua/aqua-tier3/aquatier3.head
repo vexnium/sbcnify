@@ -3,7 +3,7 @@
   "inventoryIcon" : "icons.png:head",
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
-  "rarity" : "common",
+  "rarity" : "Common",
   "description" : "Masters of espionage, a river shinobi builds his titanium helm as part armour and part disguise.",
   "shortdescription" : "River Helm",
   "inspectionKind" : "armor",
@@ -20,12 +20,12 @@
     {
       "kind" : "Protection",
       "level" : 25,
-      "amount" : 0.3
+      "amount" : 16.5
     },
 
     {
-      "kind" : "energyregenmodifier",
-      "amount" : 0.9
+      "kind" : "energyincrease",
+      "amount" : 70
     }
   ],
 

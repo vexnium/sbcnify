@@ -3,7 +3,7 @@
   "inventoryIcon" : "icons.png:head",
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
-  "rarity" : "common",
+  "rarity" : "Common",
   "description" : "To a sea shogun combat is an art-form. Their helmets protect only their most vital of organs.",
   "shortdescription" : "Sea Hat",
   "inspectionKind" : "armor",
@@ -20,12 +20,12 @@
     {
       "kind" : "Protection",
       "level" : 32,
-      "amount" : 0.3
+      "amount" : 54
     },
 
     {
-      "kind" : "energyregenmodifier",
-      "amount" : 1.8
+      "kind" : "energyincrease",
+      "amount" : 175
     }
   ],
 

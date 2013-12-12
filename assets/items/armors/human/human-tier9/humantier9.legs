@@ -3,9 +3,9 @@
   "inventoryIcon" : "icons.png:pants",
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
-  "rarity" : "common",
-  "description" : "Special georgdium kneeguards help with crawling through airducts.",
-  "shortdescription" : "Trailblazer's Grieves",
+  "rarity" : "Common",
+  "description" : "Special Rubium kneeguards help with crawling through air ducts.",
+  "shortdescription" : "Trailblazer's Greaves",
   "inspectionKind" : "armor",
 
   "maleFrames" : "pants.png",
@@ -19,13 +19,12 @@
 
     {
       "kind" : "Protection",
-      "level" : 35,
-      "amount" : 0.2
+      "amount" : 80
     },
 
     {
       "kind" : "energyregenmodifier",
-      "amount" : 1.8
+      "amount" : 3.3
     }
   ],
 

@@ -3,7 +3,7 @@
   "inventoryIcon" : "icons.png:pants",
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
-  "rarity" : "common",
+  "rarity" : "Common",
   "description" : "Steel-plated leg armour that doesn't restrict the movement of the wearer.",
   "shortdescription" : "Rebel's Pants",
   "inspectionKind" : "armor",
@@ -18,14 +18,13 @@
     },
 
     {
-      "kind" : "Protection",
-      "level" : 15,
-      "amount" : 0.2
+      "kind" : "protection",
+      "amount" : 6
     },
 
     {
       "kind" : "energyregenmodifier",
-      "amount" : 0.4
+      "amount" : 0.35
     }
   ],
 

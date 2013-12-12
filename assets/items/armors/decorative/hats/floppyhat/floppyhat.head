@@ -4,8 +4,8 @@
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
   "rarity" : "Rare",
-  "description" : "Isn't it posh.",
-  "shortdescription" : "Floppy Lady Hat",
+  "description" : "Perfect for taking tea on the lawn.",
+  "shortdescription" : "Floppy Fancy Hat",
   "inspectionKind" : "armor",
 
   "maleFrames" : "head.png",

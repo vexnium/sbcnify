@@ -3,7 +3,7 @@
   "inventoryIcon" : "icons.png:chest",
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
-  "rarity" : "common",
+  "rarity" : "Common",
   "description" : "The Durasteel inner lining of this jacket make it both fashionable and tough.",
   "shortdescription" : "Revolutionary's Jacket",
   "inspectionKind" : "armor",
@@ -29,12 +29,12 @@
     {
       "kind" : "Protection",
       "level" : 30,
-      "amount" : 0.5
+      "amount" : 45
     },
 
     {
-      "kind" : "energyregenmodifier",
-      "amount" : 2
+      "kind" : "healthincrease",
+      "amount" : 100
     }
   ],
 

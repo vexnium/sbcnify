@@ -3,7 +3,7 @@
   "inventoryIcon" : "icons.png:chest",
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
-  "rarity" : "common",
+  "rarity" : "Common",
   "description" : "This jacket is usually worn by those privy to some of the Universe's best kept secrets.",
   "shortdescription" : "Universalist's Techjacket",
   "inspectionKind" : "armor",
@@ -29,12 +29,12 @@
     {
       "kind" : "Protection",
       "level" : 36,
-      "amount" : 0.5
+      "amount" : 250
     },
 
     {
-      "kind" : "energyregenmodifier",
-      "amount" : 5
+      "kind" : "healthincrease",
+      "amount" : 400
     }
   ],
 

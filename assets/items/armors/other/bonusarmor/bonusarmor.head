@@ -3,7 +3,7 @@
   "inventoryIcon" : "icons.png:head",
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
-  "rarity" : "common",
+  "rarity" : "Common",
   "description" : "Makeshift armour helmet. For the resourceful.",
   "shortdescription" : "Makeshift Helmet",
   "inspectionKind" : "armor",
@@ -20,12 +20,12 @@
     {
       "kind" : "Protection",
       "level" : 13,
-      "amount" : 0.3
+      "amount" : 21.75
     },
 
     {
-      "kind" : "energyregenmodifier",
-      "amount" : 0.3
+      "kind" : "energyincrease",
+      "amount" : 30
     }
   ],
 

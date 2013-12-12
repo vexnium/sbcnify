@@ -3,7 +3,7 @@
   "inventoryIcon" : "icons.png:head",
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
-  "rarity" : "common",
+  "rarity" : "Common",
   "description" : "The iron helm of the knave, it only protects the top of the head.",
   "shortdescription" : "Knave's Helm",
   "inspectionKind" : "armor",
@@ -14,19 +14,18 @@
 
   "statusEffects" : [
     {
-      "kind" : "ColdProtection",
-      "amount" : "1.5"
+      "kind" : "coldprotection",
+      "amount" : "1"
     },
 
     {
-      "kind" : "Protection",
-      "level" : 5,
-      "amount" : 0.3
+      "kind" : "protection",
+      "amount" : 4.5
     },
 
     {
-      "kind" : "energyregenmodifier",
-      "amount" : 0.3
+      "kind" : "energyincrease",
+      "amount" : 15
     }
   ],
 

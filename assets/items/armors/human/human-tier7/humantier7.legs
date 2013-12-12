@@ -3,8 +3,8 @@
   "inventoryIcon" : "icons.png:pants",
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
-  "rarity" : "common",
-  "description" : "Built for diplomacy the wanderer's armour is built to look non threatening.",
+  "rarity" : "Common",
+  "description" : "Built for diplomacy the wanderer's armour is designed to look non-threatening.",
   "shortdescription" : "Wanderer's Pants",
   "inspectionKind" : "armor",
 
@@ -19,13 +19,12 @@
 
     {
       "kind" : "Protection",
-      "level" : 33,
-      "amount" : 0.2
+      "amount" : 48
     },
 
     {
       "kind" : "energyregenmodifier",
-      "amount" : 1.4
+      "amount" : 2.2
     }
   ],
 

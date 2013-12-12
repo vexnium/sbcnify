@@ -3,9 +3,9 @@
   "inventoryIcon" : "icons.png:head",
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
-  "rarity" : "common",
-  "description" : "Mr. Claus's holiday hat!",
-  "shortdescription" : "Knave's Helm",
+  "rarity" : "Common",
+  "description" : "Mrs. Claus's holiday hat!",
+  "shortdescription" : "Mrs. Claus's Hat",
   "inspectionKind" : "armor",
 
   "maleFrames" : "head.png",

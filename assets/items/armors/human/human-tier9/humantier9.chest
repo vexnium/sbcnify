@@ -3,9 +3,9 @@
   "inventoryIcon" : "icons.png:chest",
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
-  "rarity" : "common",
-  "description" : "The trailblazer's Rubium chest piece is built for adventure.",
-  "shortdescription" : "Trailblazer's Breastplate",
+  "rarity" : "Common",
+  "description" : "The trailblazer's Rubium chestpiece is built for adventure.",
+  "shortdescription" : "Trailblazer's Chestpiece",
   "inspectionKind" : "armor",
 
   "maleFrames" : {
@@ -29,12 +29,12 @@
     {
       "kind" : "Protection",
       "level" : 35,
-      "amount" : 0.5
+      "amount" : 200
     },
 
     {
-      "kind" : "energyregenmodifier",
-      "amount" : 4.5
+      "kind" : "healthincrease",
+      "amount" : 330
     }
   ],
 

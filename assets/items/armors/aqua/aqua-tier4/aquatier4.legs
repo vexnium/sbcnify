@@ -3,9 +3,9 @@
   "inventoryIcon" : "icons.png:pants",
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
-  "rarity" : "common",
-  "description" : "Lake warden durasteel grieves allow the wearer to stand at his post for many hours.",
-  "shortdescription" : "Lake Grieves",
+  "rarity" : "Common",
+  "description" : "Lake warden durasteel greaves allow the wearer to stand at his post for many hours.",
+  "shortdescription" : "Lake Greaves",
   "inspectionKind" : "armor",
 
   "maleFrames" : "pants.png",
@@ -19,13 +19,12 @@
 
     {
       "kind" : "Protection",
-      "level" : 30,
-      "amount" : 0.2
+      "amount" : 18
     },
 
     {
       "kind" : "energyregenmodifier",
-      "amount" : 0.8
+      "amount" : 1.0
     }
   ],
 

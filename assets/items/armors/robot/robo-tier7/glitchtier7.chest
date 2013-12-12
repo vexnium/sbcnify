@@ -29,12 +29,12 @@
     {
       "kind" : "Protection",
       "level" : 33,
-      "amount" : 0.5
+      "amount" : 120
     },
 
     {
-      "kind" : "energyregenmodifier",
-      "amount" : 3.5
+      "kind" : "healthincrease",
+      "amount" : 220
     }
 
   ],

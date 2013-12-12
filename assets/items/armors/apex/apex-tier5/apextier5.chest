@@ -3,7 +3,7 @@
   "inventoryIcon" : "icons.png:chest",
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
-  "rarity" : "common",
+  "rarity" : "Common",
   "description" : "A sleek top that is light and form fitting, with Aegisalt woven into the fabric for protection. ",
   "shortdescription" : "Rogue's Chestguard",
   "inspectionKind" : "armor",
@@ -29,12 +29,12 @@
     {
       "kind" : "Protection",
       "level" : 31,
-      "amount" : 0.5
+      "amount" : 65
     },
 
-    {
-      "kind" : "energyregenmodifier",
-      "amount" : 2.5
+     {
+      "kind" : "healthincrease",
+      "amount" : 135
     }
   ],
 

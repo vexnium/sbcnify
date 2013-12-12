@@ -3,7 +3,7 @@
   "inventoryIcon" : "icons.png:head",
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
-  "rarity" : "common",
+  "rarity" : "Common",
   "description" : "Hylotl pond warriors would don this steel helm and ride huge fish into battle.",
   "shortdescription" : "Pond Helm",
   "inspectionKind" : "armor",
@@ -18,14 +18,13 @@
       "amount" : "4.5"
     },
     {
-      "kind" : "Protection",
-      "level" : 15,
-      "amount" : 0.3
+      "kind" : "protection",
+      "amount" : 9
     },
 
     {
-      "kind" : "energyregenmodifier",
-      "amount" : 0.6
+      "kind" : "energyincrease",
+      "amount" : 35
     }
   ],
 

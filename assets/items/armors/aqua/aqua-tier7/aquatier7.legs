@@ -3,9 +3,9 @@
   "inventoryIcon" : "icons.png:pants",
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
-  "rarity" : "common",
-  "description" : "Cerulium grieves allow an ocean explorer to sink easily and stay sunk.",
-  "shortdescription" : "Ocean Grieves",
+  "rarity" : "Common",
+  "description" : "Cerulium greaves allow an ocean explorer to sink easily and stay sunk.",
+  "shortdescription" : "Ocean Greaves",
   "inspectionKind" : "armor",
 
   "maleFrames" : "pants.png",
@@ -19,13 +19,12 @@
 
     {
       "kind" : "Protection",
-      "level" : 33,
-      "amount" : 0.2
+      "amount" : 48
     },
 
     {
       "kind" : "energyregenmodifier",
-      "amount" : 1.4
+      "amount" : 2.2
     }
   ],
 

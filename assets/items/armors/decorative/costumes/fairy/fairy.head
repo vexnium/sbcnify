@@ -3,7 +3,7 @@
   "inventoryIcon" : "icons.png:head",
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
-  "rarity" : "common",
+  "rarity" : "Common",
   "description" : "Jewel encrusted metal party hat, it came from a pretty big christmas cracker.",
   "shortdescription" : "Crown",
   "inspectionKind" : "armor",

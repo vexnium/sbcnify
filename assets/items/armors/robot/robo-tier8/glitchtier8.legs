@@ -5,7 +5,7 @@
   "maxStack" : 1,
   "rarity" : "Rare",
   "description" : "The templars are a mysterious order some say secretly run glitch society.",
-  "shortdescription" : "Templar's Grieves",
+  "shortdescription" : "Templar's Greaves",
   "inspectionKind" : "armor",
 
   "maleFrames" : "pants.png",
@@ -19,13 +19,12 @@
 
     {
       "kind" : "Protection",
-      "level" : 34,
-      "amount" : 0.2
+      "amount" : 64
     },
 
     {
       "kind" : "energyregenmodifier",
-      "amount" : 1.6
+      "amount" : 2.7
     }
   ],
   "colorOptions" : [

@@ -3,7 +3,7 @@
   "inventoryIcon" : "icons.png:chest",
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
-  "rarity" : "common",
+  "rarity" : "Common",
   "description" : "Snow infantry chestpiece. For when a planet's giving you the cold shoulder.",
   "shortdescription" : "Snow Infantry Chest",
   "inspectionKind" : "armor",
@@ -27,13 +27,13 @@
 
     {
       "kind" : "Protection",
-      "level" : 13,
-      "amount" : 0.5
+      "level" : 3,
+      "amount" : 7.5
     },
 
     {
-      "kind" : "energyregenmodifier",
-      "amount" : 0.5
+      "kind" : "healthincrease",
+      "amount" : 15
     }
   ],
 

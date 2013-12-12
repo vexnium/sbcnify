@@ -3,7 +3,7 @@
   "inventoryIcon" : "icons.png:head",
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
-  "rarity" : "common",
+  "rarity" : "Common",
   "description" : "A Violium-plated helmet which is downright terrifying to all that dare oppose you.",
   "shortdescription" : "Frontliner's Helm",
   "inspectionKind" : "armor",
@@ -21,12 +21,12 @@
     {
       "kind" : "Protection",
       "level" : 34,
-      "amount" : 0.3
+      "amount" : 96
     },
 
     {
-      "kind" : "energyregenmodifier",
-      "amount" : 2.4
+      "kind" : "energyincrease",
+      "amount" : 270
     }
   ],
 

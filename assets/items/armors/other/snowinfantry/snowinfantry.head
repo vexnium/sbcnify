@@ -3,7 +3,7 @@
   "inventoryIcon" : "icons.png:head",
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
-  "rarity" : "common",
+  "rarity" : "Common",
   "description" : "Snow infantry helmet. Helps avoid head colds.",
   "shortdescription" : "Snow Infantry Helmet",
   "inspectionKind" : "armor",
@@ -19,13 +19,13 @@
 
     {
       "kind" : "Protection",
-      "level" : 13,
-      "amount" : 0.3
+      "level" : 3,
+      "amount" : 4.5
     },
 
     {
-      "kind" : "energyregenmodifier",
-      "amount" : 0.3
+      "kind" : "energyincrease",
+      "amount" : 15
     }
   ],
 

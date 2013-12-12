@@ -3,7 +3,7 @@
   "inventoryIcon" : "icons.png:head",
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
-  "rarity" : "common",
+  "rarity" : "Common",
   "description" : "A comfortable (yet protective) aegisalt helm.",
   "shortdescription" : "Toucan Helm",
   "inspectionKind" : "armor",
@@ -21,12 +21,12 @@
     {
       "kind" : "Protection",
       "level" : 31,
-      "amount" : 0.3
+      "amount" : 39
     },
 
     {
-      "kind" : "energyregenmodifier",
-      "amount" : 1.5
+      "kind" : "energyincrease",
+      "amount" : 135
     }
   ],
 

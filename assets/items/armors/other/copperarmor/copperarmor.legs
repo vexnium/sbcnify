@@ -3,31 +3,28 @@
   "inventoryIcon" : "icons.png:pants",
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
-  "rarity" : "common",
+  "rarity" : "Common",
   "description" : "Copper greaves. For the practical.",
   "shortdescription" : "Copper Greaves",
   "inspectionKind" : "armor",
-  "learnBlueprintsOnPickup" : [
-    "silverarmorpants"
-  ],
+  
   "maleFrames" : "pants.png",
   "femaleFrames" : "pants.png",
 
   "statusEffects" : [
     {
-      "kind" : "ColdProtection",
+      "kind" : "coldprotection",
       "amount" : "1"
     },
 
     {
-      "kind" : "Protection",
-      "level" : 3,
-      "amount" : 0.2
+      "kind" : "protection",
+      "amount" : 1.5
     },
 
     {
       "kind" : "energyregenmodifier",
-      "amount" : 0.2
+      "amount" : 0.08
     }
   ],
 

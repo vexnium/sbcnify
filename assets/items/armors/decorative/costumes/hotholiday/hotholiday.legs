@@ -3,9 +3,9 @@
   "inventoryIcon" : "icons.png:pants",
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
-  "rarity" : "common",
-  "description" : "Mr. Claus's traditional pants.",
-  "shortdescription" : "Mr. Claus Pants",
+  "rarity" : "Common",
+  "description" : "Mrs. Claus's traditional pants.",
+  "shortdescription" : "Mrs. Claus's Pants",
   "inspectionKind" : "armor",
 
   "maleFrames" : "pantsm.png",

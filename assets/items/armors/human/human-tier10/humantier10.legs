@@ -3,7 +3,7 @@
   "inventoryIcon" : "icons.png:pants",
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
-  "rarity" : "common",
+  "rarity" : "Common",
   "description" : "Impervium pants will tread a thousand alien worlds in their lifetime.",
   "shortdescription" : "Universalist's Techpants",
   "inspectionKind" : "armor",
@@ -19,13 +19,12 @@
 
     {
       "kind" : "Protection",
-      "level" : 36,
-      "amount" : 0.2
+      "amount" : 100
     },
 
     {
       "kind" : "energyregenmodifier",
-      "amount" : 2
+      "amount" : 4
     }
   ],
 

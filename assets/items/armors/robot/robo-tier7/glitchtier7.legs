@@ -4,8 +4,8 @@
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
   "rarity" : "Rare",
-  "description" : "The paladin's grieves protect both their legs and their chastity.",
-  "shortdescription" : "Paladin's Grieves",
+  "description" : "The paladin's greaves protect both their legs and their chastity.",
+  "shortdescription" : "Paladin's Greaves",
   "inspectionKind" : "armor",
 
   "maleFrames" : "pants.png",
@@ -19,13 +19,12 @@
 
     {
       "kind" : "Protection",
-      "level" : 33,
-      "amount" : 0.2
+      "amount" : 48
     },
 
     {
       "kind" : "energyregenmodifier",
-      "amount" : 1.4
+      "amount" : 2.2
     }
   ],
   "colorOptions" : [

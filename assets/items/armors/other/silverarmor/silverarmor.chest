@@ -3,7 +3,7 @@
   "inventoryIcon" : "icons.png:chest",
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
-  "rarity" : "common",
+  "rarity" : "Common",
   "description" : "Silver chestpiece. For the shiny.",
   "shortdescription" : "Silver Chestpiece",
   "inspectionKind" : "armor",
@@ -23,18 +23,17 @@
   "statusEffects" : [
     {
       "kind" : "ColdProtection",
-      "amount" : "1"
+      "amount" : "2.5"
     },
 
     {
       "kind" : "Protection",
-      "level" : 10,
-      "amount" : 0.5
+      "amount" : 11.25
     },
 
     {
-      "kind" : "energyregenmodifier",
-      "amount" : 0.5
+      "kind" : "healthincrease",
+      "amount" : 25
     }
   ],
 

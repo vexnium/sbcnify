@@ -3,8 +3,8 @@
   "inventoryIcon" : "icons.png:head",
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
-  "rarity" : "common",
-  "description" : "Get one up on your peers.",
+  "rarity" : "Common",
+  "description" : "With this hat, you'll be a fungi to be around. Apologies.",
   "shortdescription" : "Mushroom Hat",
   "inspectionKind" : "armor",
 

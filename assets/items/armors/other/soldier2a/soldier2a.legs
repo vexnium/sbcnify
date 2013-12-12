@@ -3,7 +3,7 @@
   "inventoryIcon" : "icons.png:pants",
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
-  "rarity" : "common",
+  "rarity" : "Common",
   "description" : "Soldier's Leg Armour. Armour that really demands attenSHUN!",
   "shortdescription" : "Soldier's Leg Armour",
   "inspectionKind" : "armor",

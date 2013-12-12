@@ -3,9 +3,9 @@
   "inventoryIcon" : "icons.png:chest",
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
-  "rarity" : "common",
-  "description" : "The outriders chestpiece is made from durasteel knitted like kevlar.",
-  "shortdescription" : "Outrider's Helm",
+  "rarity" : "Common",
+  "description" : "The Outrider's chestpiece is made from Durasteel, knitted like kevlar.",
+  "shortdescription" : "Outrider's Chestpiece",
   "inspectionKind" : "armor",
 
   "maleFrames" : {
@@ -29,12 +29,12 @@
     {
       "kind" : "Protection",
       "level" : 30,
-      "amount" : 0.5
+      "amount" : 45
     },
 
     {
-      "kind" : "energyregenmodifier",
-      "amount" : 2
+      "kind" : "healthincrease",
+      "amount" : 100
     }
   ],
 

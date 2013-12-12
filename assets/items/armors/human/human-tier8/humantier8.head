@@ -3,8 +3,8 @@
   "inventoryIcon" : "icons.png:head",
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
-  "rarity" : "common",
-  "description" : "After meeting the glitch, human adventurers adopted a new style of helm.",
+  "rarity" : "Common",
+  "description" : "After meeting the Glitch, human adventurers adopted a new style of helm.",
   "shortdescription" : "Adventurer's Helm",
   "inspectionKind" : "armor",
 
@@ -21,12 +21,12 @@
     {
       "kind" : "Protection",
       "level" : 34,
-      "amount" : 0.3
+      "amount" : 96
     },
 
     {
-      "kind" : "energyregenmodifier",
-      "amount" : 2.4
+      "kind" : "energyincrease",
+      "amount" : 270
     }
   ],
 

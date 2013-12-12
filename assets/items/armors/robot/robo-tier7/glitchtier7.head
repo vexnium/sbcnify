@@ -21,12 +21,12 @@
     {
       "kind" : "Protection",
       "level" : 33,
-      "amount" : 0.3
+      "amount" : 72
     },
 
     {
-      "kind" : "energyregenmodifier",
-      "amount" : 2.1
+      "kind" : "energyincrease",
+      "amount" : 220
     }
   ],
   "colorOptions" : [

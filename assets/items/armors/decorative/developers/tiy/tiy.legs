@@ -3,7 +3,7 @@
   "inventoryIcon" : "icons.png:pants",
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
-  "rarity" : "common",
+  "rarity" : "Common",
   "description" : "These pants belong to Tiy, what are you doing with them?",
   "shortdescription" : "Tiy's Pants",
   "inspectionKind" : "armor",

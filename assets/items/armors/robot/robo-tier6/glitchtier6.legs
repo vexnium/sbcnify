@@ -4,8 +4,8 @@
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
   "rarity" : "Rare",
-  "description" : "The crusaders grieves do not contain an extra brain, that would be ridiculous.",
-  "shortdescription" : "Crusader's Grieves",
+  "description" : "The crusaders greaves do not contain an extra brain, that would be ridiculous.",
+  "shortdescription" : "Crusader's Greaves",
   "inspectionKind" : "armor",
 
   "maleFrames" : "pants.png",
@@ -19,13 +19,12 @@
 
     {
       "kind" : "Protection",
-      "level" : 32,
-      "amount" : 0.2
+      "amount" : 36
     },
 
     {
       "kind" : "energyregenmodifier",
-      "amount" : 1.2
+      "amount" : 1.75
     }
   ],
   "colorOptions" : [

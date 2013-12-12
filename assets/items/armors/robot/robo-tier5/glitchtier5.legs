@@ -4,8 +4,8 @@
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
   "rarity" : "Rare",
-  "description" : "The lancers grieves are built for riding.",
-  "shortdescription" : "Lancer's Grieves",
+  "description" : "The lancers greaves are built for riding.",
+  "shortdescription" : "Lancer's Greaves",
   "inspectionKind" : "armor",
 
   "maleFrames" : "pants.png",
@@ -19,13 +19,12 @@
 
     {
       "kind" : "Protection",
-      "level" : 31,
-      "amount" : 0.2
+      "amount" : 26
     },
 
     {
       "kind" : "energyregenmodifier",
-      "amount" : 1
+      "amount" : 1.35
     }
   ],
   "colorOptions" : [

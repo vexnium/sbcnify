@@ -3,7 +3,7 @@
   "inventoryIcon" : "icons.png:pants",
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
-  "rarity" : "common",
+  "rarity" : "Common",
   "description" : "Great Protection... Unless it has teeth... or mandibles... or stingers.",
   "shortdescription" : "Hunter's Trousers",
   "inspectionKind" : "armor",

@@ -3,7 +3,7 @@
   "inventoryIcon" : "icons.png:head",
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
-  "rarity" : "common",
+  "rarity" : "Common",
   "description" : "The euphos are charged with tending to hyltol spawn close to the surface.",
   "shortdescription" : "Euphotic Helm",
   "inspectionKind" : "armor",
@@ -20,12 +20,12 @@
     {
       "kind" : "Protection",
       "level" : 34,
-      "amount" : 0.3
+      "amount" : 96
     },
 
     {
-      "kind" : "energyregenmodifier",
-      "amount" : 2.4
+      "kind" : "energyincrease",
+      "amount" : 270
     }
   ],
 

@@ -3,9 +3,9 @@
   "inventoryIcon" : "icons.png:pants",
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
-  "rarity" : "common",
-  "description" : "Disphot grieves are infused with polished Rubium.",
-  "shortdescription" : "Disphotic Grieves",
+  "rarity" : "Common",
+  "description" : "Disphot greaves are infused with polished Rubium.",
+  "shortdescription" : "Disphotic Greaves",
   "inspectionKind" : "armor",
 
   "maleFrames" : "pants.png",
@@ -19,13 +19,12 @@
 
     {
       "kind" : "Protection",
-      "level" : 35,
-      "amount" : 0.2
+      "amount" : 80
     },
 
     {
       "kind" : "energyregenmodifier",
-      "amount" : 1.8
+      "amount" : 3.3
     }
   ],
 

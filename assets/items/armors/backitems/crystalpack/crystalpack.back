@@ -3,7 +3,7 @@
   "inventoryIcon" : "backicon.png",
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "rarity" : "Rare",
-  "description" : "A shiny backpack made of crystal.",
+  "description" : "A shiny backpack made of crystal. Stylish.",
   "shortdescription" : "Crystal Backpack",
 
 

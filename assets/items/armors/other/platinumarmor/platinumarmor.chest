@@ -3,7 +3,7 @@
   "inventoryIcon" : "icons.png:chest",
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
-  "rarity" : "common",
+  "rarity" : "Common",
   "description" : "Platinum chestpiece. For the best and brightest.",
   "shortdescription" : "Platinum Chestpiece",
   "inspectionKind" : "armor",
@@ -28,12 +28,12 @@
     {
       "kind" : "Protection",
       "level" : 13,
-      "amount" : 0.5
+      "amount" : 55
     },
 
     {
-      "kind" : "energyregenmodifier",
-      "amount" : 0.5
+      "kind" : "healthincrease",
+      "amount" : 117.5
     }
   ],
 

@@ -3,7 +3,7 @@
   "inventoryIcon" : "icons.png:pants",
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
-  "rarity" : "common",
+  "rarity" : "Common",
   "description" : "These pants count the number of steps you take through sophisticated circuitry.",
   "shortdescription" : "Seeker's Pants",
   "inspectionKind" : "armor",
@@ -19,13 +19,12 @@
 
     {
       "kind" : "Protection",
-      "level" : 32,
-      "amount" : 0.2
+      "amount" : 36
     },
 
     {
       "kind" : "energyregenmodifier",
-      "amount" : 1.2
+      "amount" : 1.75
     }
   ],
 

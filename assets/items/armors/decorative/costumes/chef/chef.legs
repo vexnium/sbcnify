@@ -3,7 +3,7 @@
   "inventoryIcon" : "icons.png:pants",
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
-  "rarity" : "common",
+  "rarity" : "Common",
   "description" : "An apron to protect the important areas from oil spillages.",
   "shortdescription" : "Chef apron",
   "inspectionKind" : "armor",

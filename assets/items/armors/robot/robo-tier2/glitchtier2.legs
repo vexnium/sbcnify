@@ -18,14 +18,13 @@
     },
 
     {
-      "kind" : "Protection",
-      "level" : 15,
-      "amount" : 0.2
+      "kind" : "protection",
+      "amount" : 6
     },
 
     {
       "kind" : "energyregenmodifier",
-      "amount" : 0.4
+      "amount" : 0.35
     }
   ],
 

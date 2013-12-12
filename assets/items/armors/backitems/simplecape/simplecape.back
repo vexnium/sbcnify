@@ -2,8 +2,8 @@
   "itemName" : "simplecapeback",
   "inventoryIcon" : "simplecapebackicon.png",
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
-  "rarity" : "common",
-  "description" : "A simple cape.",
+  "rarity" : "Common",
+  "description" : "A simple cape. For the simple cape lovers.",
   "shortdescription" : "Simple Cape",
 
   "maleFrames" : "back.png",

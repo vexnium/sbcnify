@@ -3,9 +3,9 @@
   "inventoryIcon" : "icons.png:head",
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
-  "rarity" : "common",
-  "description" : "Get one up on your peers.",
-  "shortdescription" : "cardboard Hat",
+  "rarity" : "Common",
+  "description" : "Because who wants to spend money on a fancy hat?",
+  "shortdescription" : "Cardboard Hat",
   "inspectionKind" : "armor",
 
   "maleFrames" : "head.png",

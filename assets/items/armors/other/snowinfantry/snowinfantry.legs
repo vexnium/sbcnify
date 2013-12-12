@@ -3,7 +3,7 @@
   "inventoryIcon" : "icons.png:pants",
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
-  "rarity" : "common",
+  "rarity" : "Common",
   "description" : "Snow infantry pants. So you don't get cold feet.",
   "shortdescription" : "Snow Infantry Pants",
   "inspectionKind" : "armor",
@@ -18,13 +18,13 @@
 
     {
       "kind" : "Protection",
-      "level" : 13,
-      "amount" : 0.2
+      "level" : 3,
+      "amount" : 3
     },
 
     {
       "kind" : "energyregenmodifier",
-      "amount" : 0.2
+      "amount" : 0.15
     }
   ],
 

@@ -3,8 +3,8 @@
   "inventoryIcon" : "icons.png:head",
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
-  "rarity" : "common",
-  "description" : "Made from the finest fibers money can buy.",
+  "rarity" : "Common",
+  "description" : "Sing it with me: Fedoras are awesome!!!",
   "shortdescription" : "Fedora",
   "inspectionKind" : "armor",
 

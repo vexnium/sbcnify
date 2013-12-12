@@ -3,7 +3,7 @@
   "inventoryIcon" : "icons.png:chest",
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
-  "rarity" : "common",
+  "rarity" : "Common",
   "description" : "The disphot elite have protected the hylotl for millenia.",
   "shortdescription" : "Disphotic Breastplate",
   "inspectionKind" : "armor",
@@ -29,12 +29,12 @@
     {
       "kind" : "Protection",
       "level" : 35,
-      "amount" : 0.5
+      "amount" : 200
     },
 
     {
-      "kind" : "energyregenmodifier",
-      "amount" : 4.5
+      "kind" : "healthincrease",
+      "amount" : 330
     }
   ],
 

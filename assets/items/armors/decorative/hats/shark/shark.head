@@ -3,8 +3,8 @@
   "inventoryIcon" : "icons.png:head",
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
-  "rarity" : "common",
-  "description" : "It fell from the sjy on a windy day.",
+  "rarity" : "Common",
+  "description" : "It fell from the sky on a windy day.",
   "shortdescription" : "A shark hat.",
   "inspectionKind" : "armor",
 

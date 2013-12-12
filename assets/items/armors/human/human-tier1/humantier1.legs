@@ -3,9 +3,9 @@
   "inventoryIcon" : "icons.png:pants",
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
-  "rarity" : "common",
+  "rarity" : "Common",
   "description" : "A scavenger cares little for fashion.",
-  "shortdescription" : "Scavenger's Grieves",
+  "shortdescription" : "Scavenger's Greaves",
   "inspectionKind" : "armor",
 
   "maleFrames" : "pants.png",
@@ -13,19 +13,18 @@
 
   "statusEffects" : [
     {
-      "kind" : "ColdProtection",
+      "kind" : "coldprotection",
       "amount" : "1"
     },
 
     {
-      "kind" : "Protection",
-      "level" : 5,
-      "amount" : 0.2
+      "kind" : "protection",
+      "amount" : 3
     },
 
     {
       "kind" : "energyregenmodifier",
-      "amount" : 0.2
+      "amount" : 0.15
     }
   ],
 

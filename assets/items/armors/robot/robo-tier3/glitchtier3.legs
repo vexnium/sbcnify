@@ -4,8 +4,8 @@
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
   "rarity" : "Rare",
-  "description" : "The knight's grieves sit heavy at it's sides. Only a strong mechanical horse will carry the wearer of these.",
-  "shortdescription" : "Knight's Grieves",
+  "description" : "The knight's greaves sit heavy at it's sides. Only a strong mechanical horse will carry the wearer of these.",
+  "shortdescription" : "Knight's Greaves",
   "inspectionKind" : "armor",
 
   "maleFrames" : "pants.png",
@@ -19,13 +19,12 @@
 
     {
       "kind" : "Protection",
-      "level" : 25,
-      "amount" : 0.2
+      "amount" : 11
     },
 
     {
       "kind" : "energyregenmodifier",
-      "amount" : 0.6
+      "amount" : 0.7
     }
   ],
   "colorOptions" : [

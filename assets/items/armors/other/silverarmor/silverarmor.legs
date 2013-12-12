@@ -3,7 +3,7 @@
   "inventoryIcon" : "icons.png:pants",
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
-  "rarity" : "common",
+  "rarity" : "Common",
   "description" : "Silver greaves. For the shiny.",
   "shortdescription" : "Silver Greaves",
   "inspectionKind" : "armor",
@@ -13,19 +13,18 @@
 
   "statusEffects" : [
     {
-      "kind" : "ColdProtection",
+      "kind" : "coldprotection",
       "amount" : "1"
     },
 
     {
-      "kind" : "Protection",
-      "level" : 10,
-      "amount" : 0.2
+      "kind" : "protection",
+      "amount" : 4.5
     },
 
     {
       "kind" : "energyregenmodifier",
-      "amount" : 0.2
+      "amount" : 0.25
     }
   ],
 

@@ -3,7 +3,7 @@
   "inventoryIcon" : "icons.png:head",
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
-  "rarity" : "common",
+  "rarity" : "Common",
   "description" : "It's said that a trailblazer's helm is never fully finished until it has seen a sun rise and set at the same time.",
   "shortdescription" : "Trailblazer's Helm",
   "inspectionKind" : "armor",
@@ -21,12 +21,12 @@
     {
       "kind" : "Protection",
       "level" : 35,
-      "amount" : 0.3
+      "amount" : 120
     },
 
     {
-      "kind" : "energyregenmodifier",
-      "amount" : 2.7
+      "kind" : "energyincrease",
+      "amount" : 330
     }
   ],
 

@@ -5,7 +5,7 @@
   "maxStack" : 1,
   "rarity" : "Rare",
   "description" : "The doom lord's boots rattle a planet with each step.",
-  "shortdescription" : "Doom Lord's Grieves",
+  "shortdescription" : "Doom Lord's Greaves",
   "inspectionKind" : "armor",
 
   "maleFrames" : "pants.png",
@@ -19,13 +19,12 @@
 
     {
       "kind" : "Protection",
-      "level" : 36,
-      "amount" : 0.2
+      "amount" : 100
     },
 
     {
       "kind" : "energyregenmodifier",
-      "amount" : 2
+      "amount" : 4
     }
   ],
   "colorOptions" : [

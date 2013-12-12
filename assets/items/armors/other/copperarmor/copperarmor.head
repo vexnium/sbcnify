@@ -3,33 +3,31 @@
   "inventoryIcon" : "icons.png:head",
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
-  "rarity" : "common",
+  "rarity" : "Common",
   "description" : "Copper helmet. For the practical.",
   "shortdescription" : "Copper Helmet",
   "inspectionKind" : "armor",
-  "learnBlueprintsOnPickup" : [
-    "silverarmorhead"
-  ],
+  
   "maleFrames" : "head.png",
   "femaleFrames" : "head.png",
   "mask" : "mask.png",
 
   "statusEffects" : [
     {
-      "kind" : "ColdProtection",
+      "kind" : "coldprotection",
       "amount" : "1"
     },
 
     {
-      "kind" : "Protection",
-      "level" : 1,
-      "amount" : 0.3
+      "kind" : "protection",
+      "amount" : 2.25
     },
 
     {
-      "kind" : "energyregenmodifier",
-      "amount" : 0.3
+      "kind" : "energyincrease",
+      "amount" : 7.5
     }
+	
   ],
 
   "colorOptions" : [

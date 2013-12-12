@@ -3,7 +3,7 @@
   "inventoryIcon" : "icons.png:chest",
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
-  "rarity" : "common",
+  "rarity" : "Common",
   "description" : "The giant pauldrons on this Violium armour show that the wearer means business.",
   "shortdescription" : "Frontliner's Breastplate",
   "inspectionKind" : "armor",
@@ -29,12 +29,12 @@
     {
       "kind" : "Protection",
       "level" : 34,
-      "amount" : 0.5
+      "amount" : 160
     },
 
     {
-      "kind" : "energyregenmodifier",
-      "amount" : 4
+      "kind" : "healthincrease",
+      "amount" : 270
     }
   ],
 

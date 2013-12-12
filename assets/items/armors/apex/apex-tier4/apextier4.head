@@ -3,7 +3,7 @@
   "inventoryIcon" : "icons.png:head",
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
-  "rarity" : "common",
+  "rarity" : "Common",
   "description" : "This bandana and blindfold are perfect for the budding Revolutionary.",
   "shortdescription" : "Revolutionary's Bandana",
   "inspectionKind" : "armor",
@@ -21,12 +21,12 @@
     {
       "kind" : "Protection",
       "level" : 30,
-      "amount" : 0.3
+      "amount" : 27
     },
 
     {
-      "kind" : "energyregenmodifier",
-      "amount" : 1.2
+      "kind" : "energyincrease",
+      "amount" : 100
     }
   ],
 

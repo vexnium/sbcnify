@@ -3,7 +3,7 @@
   "inventoryIcon" : "icons.png:chest",
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
-  "rarity" : "common",
+  "rarity" : "Common",
   "description" : "The armpits are a little frayed, this coat must have seen a lot of flapping.",
   "shortdescription" : "Pilot's Jacket",
   "inspectionKind" : "armor",

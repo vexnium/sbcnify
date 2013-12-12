@@ -4,8 +4,8 @@
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
   "rarity" : "Rare",
-  "description" : "The dark knights grieves provide some of the most adequate crotch protection in the entire universe.",
-  "shortdescription" : "Dark Knight's Grieves",
+  "description" : "The dark knights greaves provide some of the most adequate crotch protection in the entire universe.",
+  "shortdescription" : "Dark Knight's Greaves",
   "inspectionKind" : "armor",
 
   "maleFrames" : "pants.png",
@@ -20,12 +20,12 @@
     {
       "kind" : "Protection",
       "level" : 30,
-      "amount" : 0.2
+      "amount" : 18
     },
 
     {
       "kind" : "energyregenmodifier",
-      "amount" : 0.8
+      "amount" : 1.0
     }
   ],
   "colorOptions" : [

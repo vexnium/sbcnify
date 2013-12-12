@@ -3,7 +3,7 @@
   "inventoryIcon" : "icons.png:pants",
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
-  "rarity" : "common",
+  "rarity" : "Common",
   "description" : "Made of real faux-leather. Too cool.",
   "shortdescription" : "Cool Pants",
   "inspectionKind" : "armor",
@@ -19,8 +19,7 @@
 
     {
       "kind" : "Protection",
-      "level" : 2,
-      "amount" : 0.2
+      "amount" : 2
     }
   ],
 

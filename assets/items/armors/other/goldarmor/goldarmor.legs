@@ -3,7 +3,7 @@
   "inventoryIcon" : "icons.png:pants",
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
-  "rarity" : "common",
+  "rarity" : "Common",
   "description" : "Gold greaves. For the decadent.",
   "shortdescription" : "Gold Greaves",
   "inspectionKind" : "armor",
@@ -18,19 +18,18 @@
 
     {
       "kind" : "Protection",
-      "level" : 13,
-      "amount" : 0.2
+      "amount" : 8.5
     },
 
     {
       "kind" : "energyregenmodifier",
-      "amount" : 0.2
+      "amount" : 0.525
     }
   ],
 
   "colorOptions" : [
-    /* GREY */
-    { "ffca8a" : "fcd0b7", "e0975c" : "e7ab89", "a85636" : "c97648", "6f2919" : "89360d" },
+    /* YELLOW DEFAULT */
+    { "ffca8a" : "ffffa7", "e0975c" : "e2c344", "a85636" : "a46e06", "6f2919" : "642f00" },
     /* BLACK */
     { "ffca8a" : "838383", "e0975c" : "555555", "a85636" : "383838", "6f2919" : "151515" },
     /* GREY */

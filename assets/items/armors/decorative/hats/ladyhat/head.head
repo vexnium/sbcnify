@@ -5,7 +5,7 @@
   "maxStack" : 1,
   "rarity" : "Rare",
   "description" : "Perfect for Ascot.",
-  "shortdescription" : "Lady Hat",
+  "shortdescription" : "Fancy Hat",
   "inspectionKind" : "armor",
 
   "maleFrames" : "head.png",

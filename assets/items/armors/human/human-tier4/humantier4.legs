@@ -3,7 +3,7 @@
   "inventoryIcon" : "icons.png:pants",
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
-  "rarity" : "common",
+  "rarity" : "Common",
   "description" : "These Durasteel pants are built for the rider of a hoverbike.",
   "shortdescription" : "Outrider's Pants",
   "inspectionKind" : "armor",
@@ -20,12 +20,12 @@
     {
       "kind" : "Protection",
       "level" : 30,
-      "amount" : 0.2
+      "amount" : 18
     },
 
     {
       "kind" : "energyregenmodifier",
-      "amount" : 0.8
+      "amount" : 1.0
     }
   ],
 

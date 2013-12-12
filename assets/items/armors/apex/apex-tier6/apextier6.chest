@@ -3,7 +3,7 @@
   "inventoryIcon" : "icons.png:chest",
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
-  "rarity" : "common",
+  "rarity" : "Common",
   "description" : "The multiple layers of this upper body armour are seperate only with compact layers of Ferozium.",
   "shortdescription" : "Spy's Jacket",
   "inspectionKind" : "armor",
@@ -29,12 +29,12 @@
     {
       "kind" : "Protection",
       "level" : 32,
-      "amount" : 0.5
+      "amount" : 90
     },
 
     {
-      "kind" : "energyregenmodifier",
-      "amount" : 3
+      "kind" : "healthincrease",
+      "amount" : 175
     }
   ],
 

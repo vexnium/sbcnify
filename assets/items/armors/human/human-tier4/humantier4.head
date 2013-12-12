@@ -3,9 +3,9 @@
   "inventoryIcon" : "icons.png:head",
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
-  "rarity" : "common",
-  "description" : "The durasteel helm of the outrider is built for communication. This one doesn't work.",
-  "shortdescription" : "Outrider's Chestguard",
+  "rarity" : "Common",
+  "description" : "The Durasteel helm of the outrider is built for communication. This one doesn't work.",
+  "shortdescription" : "Outrider's Helm",
   "inspectionKind" : "armor",
 
   "maleFrames" : "head.png",
@@ -21,12 +21,12 @@
     {
       "kind" : "Protection",
       "level" : 30,
-      "amount" : 0.3
+      "amount" : 27
     },
 
     {
-      "kind" : "energyregenmodifier",
-      "amount" : 1.2
+      "kind" : "energyincrease",
+      "amount" : 100
     }
   ],
 

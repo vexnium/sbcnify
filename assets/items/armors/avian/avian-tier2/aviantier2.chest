@@ -3,7 +3,7 @@
   "inventoryIcon" : "icons.png:chest",
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
-  "rarity" : "common",
+  "rarity" : "Common",
   "description" : "This ceremonial steel cape/plate combo is both comfortable and fashionable!",
   "shortdescription" : "Sparrow Breastplate",
   "inspectionKind" : "armor",
@@ -28,13 +28,12 @@
 
     {
       "kind" : "Protection",
-      "level" : 15,
-      "amount" : 0.5
+      "amount" : 15
     },
 
     {
-      "kind" : "energyregenmodifier",
-      "amount" : 1
+      "kind" : "healthincrease",
+      "amount" : 35
     }
   ],
 

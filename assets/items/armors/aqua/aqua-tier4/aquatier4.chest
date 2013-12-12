@@ -3,7 +3,7 @@
   "inventoryIcon" : "icons.png:chest",
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
-  "rarity" : "common",
+  "rarity" : "Common",
   "description" : "Equipped with a Durasteel breastplate, lake wardens were the protectors of Hylotl villages.",
   "shortdescription" : "Lake Breastplate",
   "inspectionKind" : "armor",
@@ -29,12 +29,12 @@
     {
       "kind" : "Protection",
       "level" : 30,
-      "amount" : 0.5
+      "amount" : 45
     },
 
     {
-      "kind" : "energyregenmodifier",
-      "amount" : 2
+      "kind" : "healthincrease",
+      "amount" : 100
     }
   ],
 

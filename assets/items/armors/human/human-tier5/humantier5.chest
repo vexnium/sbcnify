@@ -3,8 +3,8 @@
   "inventoryIcon" : "icons.png:chest",
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
-  "rarity" : "common",
-  "description" : "Chosen for it's strength on the battlefield. The vanguard flak jacket has saved many lives. ",
+  "rarity" : "Common",
+  "description" : "Chosen for its strength on the battlefield. The vanguard flak jacket has saved many lives.",
   "shortdescription" : "Vanguard's Flak Jacket",
   "inspectionKind" : "armor",
 
@@ -29,12 +29,12 @@
     {
       "kind" : "Protection",
       "level" : 31,
-      "amount" : 0.5
+      "amount" : 65
     },
 
     {
-      "kind" : "energyregenmodifier",
-      "amount" : 2.5
+      "kind" : "healthincrease",
+      "amount" : 135
     }
   ],
 

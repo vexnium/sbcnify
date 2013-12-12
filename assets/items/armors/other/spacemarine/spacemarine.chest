@@ -3,7 +3,7 @@
   "inventoryIcon" : "icons.png:chest",
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
-  "rarity" : "common",
+  "rarity" : "Common",
   "description" : "Power Armour Chestpiece. Heavy-duty armour.",
   "shortdescription" : "Power Armour Chestpiece",
   "inspectionKind" : "armor",

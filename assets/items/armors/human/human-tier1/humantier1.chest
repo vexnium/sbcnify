@@ -3,7 +3,7 @@
   "inventoryIcon" : "icons.png:chest",
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
-  "rarity" : "common",
+  "rarity" : "Common",
   "description" : "The scavenger's breastplate is reliable without the frills.",
   "shortdescription" : "Scavenger's Breastplate",
   "inspectionKind" : "armor",
@@ -28,13 +28,12 @@
 
     {
       "kind" : "Protection",
-      "level" : 5,
-      "amount" : 0.5
+      "amount" : 7.5
     },
-
+	
     {
-      "kind" : "energyregenmodifier",
-      "amount" : 0.5
+      "kind" : "healthincrease",
+      "amount" : 15
     }
   ],
 

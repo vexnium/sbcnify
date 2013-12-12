@@ -3,8 +3,8 @@
   "inventoryIcon" : "icons.png:pants",
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
-  "rarity" : "common",
-  "description" : "THOSE SHOES ARE MINE BETCH",
+  "rarity" : "Common",
+  "description" : "THOSE SHOES ARE MINE BETCH.",
   "shortdescription" : "Rho",
   "inspectionKind" : "armor",
 

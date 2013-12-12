@@ -3,7 +3,7 @@
   "inventoryIcon" : "icons.png:pants",
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
-  "rarity" : "common",
+  "rarity" : "Common",
   "description" : "Makeshift armour greaves. For the resourceful.",
   "shortdescription" : "Makeshift Greaves",
   "inspectionKind" : "armor",
@@ -19,7 +19,7 @@
     {
       "kind" : "Protection",
       "level" : 13,
-      "amount" : 0.2
+      "amount" : 14.5
     },
 
     {

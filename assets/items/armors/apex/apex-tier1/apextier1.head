@@ -3,7 +3,7 @@
   "inventoryIcon" : "icons.png:head",
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
-  "rarity" : "common",
+  "rarity" : "Common",
   "description" : "A mass-produced iron mask that somewhat disguises the wearer's identity.",
   "shortdescription" : "Defector's Mask",
   "inspectionKind" : "armor",
@@ -13,20 +13,19 @@
   "mask" : "mask.png",
 
   "statusEffects" : [
-    {
-      "kind" : "ColdProtection",
-      "amount" : "1.5"
+     {
+      "kind" : "coldprotection",
+      "amount" : "1"
     },
 
     {
-      "kind" : "Protection",
-      "level" : 5,
-      "amount" : 0.3
+      "kind" : "protection",
+      "amount" : 4.5
     },
 
     {
-      "kind" : "energyregenmodifier",
-      "amount" : 0.3
+      "kind" : "energyincrease",
+      "amount" : 15
     }
   ],
 
