@@ -2,13 +2,9 @@
   "name" : "tier2hammer",
   "level" : 15,
   "bladeBehindHandle" : false,
-  "baseDps" : [9, 11],
+  "baseDps" : [2.5, 3.5],
   "rateOfSwing" : [0.6, 2.2],
   "multiplier" : 0.3,
-  "projectileTypes" : [ "hammerswoosh1" ],
-  "projectile" : {
-    "speed" : 0.1
-  },
   "firePosition" : [12.5, 3],
   "fireAfterWindup" : true,
   "muzzleFlashes" : [ ],
@@ -16,7 +12,11 @@
   "kind" : "hammer",
   "inspectionKind" : "sword",
 
-  "stances" : {
+  "primaryStances" : {
+    "projectileTypes" : [ "hammerswoosh1" ],
+    "projectile" : {
+      "speed" : 0.1
+    },
     "idle" : {
       "twoHanded" : false,
       "armAngle" : -90,
@@ -32,7 +32,7 @@
       "handPosition" : [-2.7, -14.5],
       "duration" : 0.07,
       "statusEffects" : [
-        { "kind" : "shieldsuppressed", "duration" : 0.1 }
+      { "kind" : "shieldsuppressed", "duration" : 0.1 }
       ]
     },
     "cooldown" : {
@@ -42,7 +42,7 @@
       "handPosition" : [-2.7, -27],
       "duration" : 0.4,
       "statusEffects" : [
-        { "kind" : "shieldsuppressed", "duration" : 0.1 }
+      { "kind" : "shieldsuppressed", "duration" : 0.1 }
       ]
     }
   },

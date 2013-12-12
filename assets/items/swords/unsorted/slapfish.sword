@@ -12,13 +12,13 @@
   "fireTime" : 0.5,
   "fireAfterWindup" : true,
 
-  "projectileType" : "testsideswoosh",
-  "projectile" : {
-    "speed" : 0.01,
-    "power" : 30
-  },
 
-  "stances" : {
+  "primaryStances" : {
+    "projectileType" : "testsideswoosh",
+    "projectile" : {
+      "speed" : 0.01,
+      "power" : 30
+    },
     "idle" : {
       "twoHanded" : false,
       "armAngle" : 999,
@@ -33,7 +33,7 @@
       "handPosition" : [-10, -1],
       "duration" : 0.1,
       "statusEffects" : [
-        { "kind" : "shieldsuppressed", "duration" : 0.1 }
+      { "kind" : "shieldsuppressed", "duration" : 0.1 }
       ]
     },
     "cooldown" : {
@@ -43,7 +43,7 @@
       "handPosition" : [-10, -1],
       "duration" : 0.4,
       "statusEffects" : [
-        { "kind" : "shieldsuppressed", "duration" : 0.1 }
+      { "kind" : "shieldsuppressed", "duration" : 0.1 }
       ]
     }
   }

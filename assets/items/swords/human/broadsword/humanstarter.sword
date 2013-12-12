@@ -4,8 +4,8 @@
   "maxStack" : 1,
   "level" : 0.6,
   "rarity" : "uncommon",
-  "description" : "\u4E00\u628A\u7834\u635F\u7684\u5251\u3002\u770B\u8D77\u6765\u662F\u628A\u77F3\u5934\u626D\u5F2F\u4E4B\u540E\u5236\u6210\u7684\u3002",
-  "shortdescription" : "\u7834\u635f\u7684\u82f1\u96c4\u4e4b\u5251",
+  "description" : "A broken sword. Looks like it's been wrenched from a stone.",
+  "shortdescription" : "Broken Hero Sword",
   "inspectionKind" : "sword",
   "kind" : "Broadsword",
 
@@ -14,11 +14,6 @@
   "fireTime" : 0.52,
   "fireAfterWindup" : true,
   "soundEffect" : { "fireSound" : [ { "file" : "/sfx/melee/swing_twohanded.wav" } ] },
-  "projectileType" : "testswoosh3",
-  "projectile" : {
-    "speed" : 0.1,
-    "power" : 28
-  },
 
   "colorOptions" : [
     /* GREY */
@@ -47,7 +42,12 @@
     { "ffca8a" : "ccae7c", "e0975c" : "a47844", "a85636" : "754c23", "6f2919" : "472b13" }
   ],
 
-  "stances" : {
+  "primaryStances" : {
+    "projectileType" : "testswoosh3",
+    "projectile" : {
+      "speed" : 0.1,
+      "power" : 5
+    },
     "idle" : {
       "twoHanded" : false,
       "armAngle" : -90,
@@ -63,7 +63,7 @@
       "handPosition" : [-6.0, -17.0],
       "duration" : 0.2,
       "statusEffects" : [
-        { "kind" : "shieldsuppressed", "duration" : 0.1 }
+      { "kind" : "shieldsuppressed", "duration" : 0.1 }
       ]
     },
     "cooldown" : {
@@ -73,7 +73,7 @@
       "handPosition" : [-6.0, -23.5],
       "duration" : 0.4,
       "statusEffects" : [
-        { "kind" : "shieldsuppressed", "duration" : 0.1 }
+      { "kind" : "shieldsuppressed", "duration" : 0.1 }
       ]
     }
   }

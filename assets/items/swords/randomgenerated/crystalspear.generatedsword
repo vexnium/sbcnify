@@ -2,13 +2,9 @@
   "name" : "crystalspear",
   "maxStack" : 1,
   "rarity" : "uncommon",
-  "baseDps" : [9, 11],
+  "baseDps" : [2.5, 3.5],
   "rateOfSwing" : [0.7, 2.4],
   "multiplier" : 0.3,
-  "projectileTypes" : [ "electricspear", "firespear" ],
-  "projectile" : {
-    "speed" : 0.4
-  },
   "firePosition" : [32.5, -8.5],
   "fireAfterWindup" : true,
   "bladeBehindHandle" : false,
@@ -17,7 +13,11 @@
   "kind" : "crystalspear",
   "inspectionKind" : "sword",
 
-  "stances" : {
+  "primaryStances" : {
+    "projectileTypes" : [ "electricspear", "firespear" ],
+    "projectile" : {
+      "speed" : 0.4
+    },
     "idle" : {
       "twoHanded" : false,
       "armAngle" : -90,
@@ -33,7 +33,7 @@
       "handPosition" : [1.5, 1.5],
       "duration" : 0.07,
       "statusEffects" : [
-        { "kind" : "shieldsuppressed", "duration" : 0.1 }
+      { "kind" : "shieldsuppressed", "duration" : 0.1 }
       ]
     },
     "cooldown" : {
@@ -43,7 +43,7 @@
       "handPosition" : [1.5, -19.5],
       "duration" : 0.2,
       "statusEffects" : [
-        { "kind" : "shieldsuppressed", "duration" : 0.1 }
+      { "kind" : "shieldsuppressed", "duration" : 0.1 }
       ]
     }
   },

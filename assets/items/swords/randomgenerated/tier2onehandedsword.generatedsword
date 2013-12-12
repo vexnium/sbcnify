@@ -1,13 +1,9 @@
 {
   "name" : "tier2shortsword",
   "level" : 15,
-  "baseDps" : [9, 11],
+  "baseDps" : [2.5, 3.5],
   "rateOfSwing" : [0.7, 3],
   "multiplier" : 0.4,
-  "projectileTypes" : [ "shortswordswoosh1" ],
-  "projectile" : {
-    "speed" : 0.1
-  },
   "firePosition" : [22, -2],
   "fireAfterWindup" : true,
   "muzzleFlashes" : [ ],
@@ -15,7 +11,11 @@
   "kind" : "sword",
   "inspectionKind" : "sword",
 
-  "stances" : {
+  "primaryStances" : {
+    "projectileTypes" : [ "shortswordswoosh1" ],
+    "projectile" : {
+      "speed" : 0.1
+    },
     "idle" : {
       "twoHanded" : false,
       "armAngle" : -90,
@@ -31,7 +31,7 @@
       "handPosition" : [0.2, -25],
       "duration" : 0.07,
       "statusEffects" : [
-        { "kind" : "shieldsuppressed", "duration" : 0.1 }
+      { "kind" : "shieldsuppressed", "duration" : 0.1 }
       ]
     },
     "cooldown" : {
@@ -41,7 +41,7 @@
       "handPosition" : [2.2, -9],
       "duration" : 0.4,
       "statusEffects" : [
-        { "kind" : "shieldsuppressed", "duration" : 0.1 }
+      { "kind" : "shieldsuppressed", "duration" : 0.1 }
       ]
     }
   },

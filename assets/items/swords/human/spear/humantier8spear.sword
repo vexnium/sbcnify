@@ -11,14 +11,9 @@
 
   "image" : "humantier8spear.png",
   "firePosition" : [32.5, -8.5],
-  "fireTime" : 0.79,
+  "fireTime" : 0.8,
   "fireAfterWindup" : true,
   "soundEffect" : { "fireSound" : [ { "file" : "/sfx/melee/thrust_spear.wav" } ] },
-  "projectileType" : "spearswoosh1",
-  "projectile" : {
-    "speed" : 0.1,
-    "power" : 33
-  },
 
   "colorOptions" : [
     /* PURPLE */
@@ -47,7 +42,12 @@
     { "ffca8a" : "ccae7c", "e0975c" : "a47844", "a85636" : "754c23", "6f2919" : "472b13" }
   ],
 
-  "stances" : {
+  "primaryStances" : {
+    "projectileType" : "spearswoosh1",
+    "projectile" : {
+      "speed" : 0.1,
+      "power" : 1067
+    },
     "idle" : {
       "twoHanded" : false,
       "armAngle" : -90,
@@ -63,7 +63,7 @@
       "handPosition" : [1.5, 1.5],
       "duration" : 0.2,
       "statusEffects" : [
-        { "kind" : "shieldsuppressed", "duration" : 0.1 }
+      { "kind" : "shieldsuppressed", "duration" : 0.1 }
       ]
     },
     "cooldown" : {
@@ -73,7 +73,7 @@
       "handPosition" : [1.5, -19.5],
       "duration" : 0.2,
       "statusEffects" : [
-        { "kind" : "shieldsuppressed", "duration" : 0.1 }
+      { "kind" : "shieldsuppressed", "duration" : 0.1 }
       ]
     }
   }

@@ -11,14 +11,8 @@
 
   "image" : "humantier9broadsword.png",
   "firePosition" : [15.5, 4.5],
-  "fireTime" : 0.78,
-  "fireAfterWindup" : true,
+  "fireTime" : 0.7,
   "soundEffect" : { "fireSound" : [ { "file" : "/sfx/melee/swing_twohanded.wav" } ] },
-  "projectileType" : "testswoosh3",
-  "projectile" : {
-    "speed" : 0.1,
-    "power" : 28
-  },
 
   "colorOptions" : [
     /* RED */
@@ -47,7 +41,12 @@
     { "ffca8a" : "ccae7c", "e0975c" : "a47844", "a85636" : "754c23", "6f2919" : "472b13" }
   ],
 
-  "stances" : {
+  "primaryStances" : {
+    "projectileType" : "testswoosh3",
+    "projectile" : {
+      "speed" : 0.1,
+      "power" : 1500
+    },
     "idle" : {
       "twoHanded" : false,
       "armAngle" : -90,
@@ -63,7 +62,7 @@
       "handPosition" : [-6.0, -19.5],
       "duration" : 0.2,
       "statusEffects" : [
-        { "kind" : "shieldsuppressed", "duration" : 0.1 }
+      { "kind" : "shieldsuppressed", "duration" : 0.1 }
       ]
     },
     "cooldown" : {
@@ -73,7 +72,7 @@
       "handPosition" : [-6.0, -27.5],
       "duration" : 0.4,
       "statusEffects" : [
-        { "kind" : "shieldsuppressed", "duration" : 0.1 }
+      { "kind" : "shieldsuppressed", "duration" : 0.1 }
       ]
     }
   }

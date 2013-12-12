@@ -12,13 +12,13 @@
   "fireAfterWindup" : true,
   "soundEffect" : { "fireSound" : [ { "file" : "/sfx/melee/swing_twohanded.wav" } ] },
 
-  "projectileType" : "testswoosh4",
-  "projectile" : {
-    "speed" : 0.1,
-    "power" : 50
-  },
 
-  "stances" : {
+  "primaryStances" : {
+    "projectileType" : "testswoosh4",
+    "projectile" : {
+      "speed" : 0.1,
+      "power" : 50
+    },
     "idle" : {
       "twoHanded" : false,
       "armAngle" : 999,
@@ -33,7 +33,7 @@
       "handPosition" : [-6, -16],
       "duration" : 0.2,
       "statusEffects" : [
-        { "kind" : "shieldsuppressed", "duration" : 0.1 }
+      { "kind" : "shieldsuppressed", "duration" : 0.1 }
       ]
     },
     "cooldown" : {
@@ -43,7 +43,7 @@
       "handPosition" : [-6, -16],
       "duration" : 0.4,
       "statusEffects" : [
-        { "kind" : "shieldsuppressed", "duration" : 0.1 }
+      { "kind" : "shieldsuppressed", "duration" : 0.1 }
       ]
     }
   }

@@ -8,17 +8,13 @@
   "shortdescription" : "Hunting Knife",
   "inspectionKind" : "sword",
   "kind" : "Shortsword",
+  "twoHanded" : true,
 
   "image" : "huntingknife.png",
   "firePosition" : [22, -2],
   "fireTime" : 0.52,
   "fireAfterWindup" : true,
   "soundEffect" : { "fireSound" : [ { "file" : "/sfx/melee/swing_onehanded.wav" } ] },
-  "projectileType" : "shortswordhuntingswoosh1",
-  "projectile" : {
-    "speed" : 0.1,
-    "power" : 25
-  },
 
   "colorOptions" : [
     /* GREY */
@@ -47,7 +43,12 @@
     { "ffca8a" : "ccae7c", "e0975c" : "a47844", "a85636" : "754c23", "6f2919" : "472b13" }
   ],
 
-  "stances" : {
+  "primaryStances" : {
+    "projectileType" : "shortswordhuntingswoosh1",
+    "projectile" : {
+      "speed" : 0.1,
+      "power" : 5
+    },
     "idle" : {
       "twoHanded" : false,
       "armAngle" : -90,
@@ -76,5 +77,42 @@
         { "kind" : "shieldsuppressed", "duration" : 0.1 }
       ]
     }
+  },
+
+  "altStances" : {
+    "projectileType" : "testswoosh3",
+    "projectile" : {
+      "speed" : 0.1,
+      "power" : 5
+    },
+    "idle" : {
+      "twoHanded" : false,
+      "armAngle" : -90,
+      "swordAngle" : -90,
+      "handPosition" : [-6.0, -17.0],
+      "armFrameOverride" : "idleMelee",
+      "duration" : 0.1
+    },
+    "windup" : {
+      "twoHanded" : true,
+      "armAngle" : 90,
+      "swordAngle" : 90,
+      "handPosition" : [-6.0, -17.0],
+      "duration" : 0.2,
+      "statusEffects" : [
+        { "kind" : "shieldsuppressed", "duration" : 0.1 }
+      ]
+    },
+    "cooldown" : {
+      "twoHanded" : true,
+      "armAngle" : -45,
+      "swordAngle" : -90,
+      "handPosition" : [-6.0, -27.5],
+      "duration" : 0.4,
+      "statusEffects" : [
+        { "kind" : "shieldsuppressed", "duration" : 0.1 }
+      ]
+    },
+    "directional" : true
   }
 }

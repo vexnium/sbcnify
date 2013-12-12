@@ -11,14 +11,9 @@
 
   "image" : "humantier2axe.png",
   "firePosition" : [12.5, -3.5],
-  "fireTime" : 0.74,
+  "fireTime" : 0.8,
   "fireAfterWindup" : true,
   "soundEffect" : { "fireSound" : [ { "file" : "/sfx/melee/swing_axe.wav" } ] },
-  "projectileType" : "axeswoosh1",
-  "projectile" : {
-    "speed" : 0.1,
-    "power" : 28
-  },
 
   "colorOptions" : [
     /* LIGHT GREY */
@@ -47,7 +42,12 @@
     { "ffca8a" : "ccae7c", "e0975c" : "a47844", "a85636" : "754c23", "6f2919" : "472b13" }
   ],
 
-  "stances" : {
+  "primaryStances" : {
+    "projectileType" : "axeswoosh1",
+    "projectile" : {
+      "speed" : 0.1,
+      "power" : 20
+    },
     "idle" : {
       "twoHanded" : false,
       "armAngle" : -90,
@@ -63,7 +63,7 @@
       "handPosition" : [-2.7, -14.5],
       "duration" : 0.2,
       "statusEffects" : [
-        { "kind" : "shieldsuppressed", "duration" : 0.1 }
+      { "kind" : "shieldsuppressed", "duration" : 0.1 }
       ]
     },
     "cooldown" : {
@@ -73,7 +73,7 @@
       "handPosition" : [-2.7, -27],
       "duration" : 0.4,
       "statusEffects" : [
-        { "kind" : "shieldsuppressed", "duration" : 0.1 }
+      { "kind" : "shieldsuppressed", "duration" : 0.1 }
       ]
     }
   }
