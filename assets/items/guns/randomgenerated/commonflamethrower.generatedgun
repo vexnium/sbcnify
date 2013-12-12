@@ -6,7 +6,7 @@
   "handPosition" : [5, 2],
   "firePosition" : [-2, 10],
   "weaponType" : "Flamethrower",
-  "baseDps" : [9, 11],
+  "baseDps" : [2, 2.5],
   "rateOfFire" : [20, 30],
   "hands" : [2, 2],
   "recoilTime" : 0.1,

@@ -2,9 +2,6 @@
   "name" : "tier1shield",
   "kind" : "tier1",
 
-  "damageReductionPerEnergy" : 0.1,
-  "speudoDpsScalar" : 100,
-
   "palette" : [
     { }
   ],
@@ -17,7 +14,8 @@
     "knockbackDamageKind" : "",
     "statusEffects" : [
       { "kind" : "Encumbered" },
-      { "kind" : "EnergyRegenSuppressed" }
+      { "kind" : "EnergyRegenSuppressed" },
+      { "kind" : "Shield", "amount" : 10 }
     ],
     "shieldPoly" : [ [-8, 0], [-8, 12], [8, 20], [8, -24], [-8, -12] ],
     "damagePoly" : [ [-8, 0], [8, 18], [8, -18] ]
