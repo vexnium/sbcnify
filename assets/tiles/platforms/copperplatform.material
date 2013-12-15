@@ -8,7 +8,7 @@
   "platformVariants" : 3,
   "platformImage" : "copperplatform.png",
   "itemDrop" : "copperplatform",
-  "shortdescription" : "Copper Platform",
-  "description" : "A copper platform.",
+  "shortdescription" : "\u94DC\u8D28\u5E73\u53F0",
+  "description" : "\u4E00\u6BB5\u4EE5\u4E0A\u7B49\u9752\u94DC\u5236\u4F5C\u7684\u5C0F\u578B\u5E73\u53F0.",
   "footstepSound" : "/sfx/blocks/footstep_girder.wav"
 }

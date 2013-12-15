@@ -8,7 +8,7 @@
   "platformVariants" : 3,
   "platformImage" : "steelplatform.png",
   "itemDrop" : "steelplatform",
-  "shortdescription" : "Steel Platform",
-  "description" : "Strong steel platforms.",
+  "shortdescription" : "\u91D1\u5C5E\u5E73\u53F0",
+  "description" : "\u770B\u8D77\u6765\u5341\u5206\u575A\u56FA.",
   "footstepSound" : "/sfx/blocks/footstep_lightmetal.wav"
 }

@@ -8,7 +8,7 @@
   "platformVariants" : 3,
   "platformImage" : "pressurizedplatform.png",
   "itemDrop" : "pressurizedplatform",
-  "shortdescription" : "Pressurized Platform",
-  "description" : "Tough pressurized platform for potentially pressured environments!",
+  "shortdescription" : "\u9AD8\u5BC6\u5EA6\u5E73\u53F0",
+  "description" : "\u54EA\u6015\u5728\u6781\u9AD8\u538B\u529B\u4E0B\u90FD\u9002\u7528\u7684\u5E73\u53F0\uFF0C\u53EA\u8981\u0039\u0039\u0038!",
   "footstepSound" : "/sfx/blocks/footstep_lightwood.wav"
 }

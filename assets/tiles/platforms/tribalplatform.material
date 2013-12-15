@@ -8,7 +8,7 @@
   "platformVariants" : 3,
   "platformImage" : "tribalplatform.png",
   "itemDrop" : "tribalplatform",
-  "shortdescription" : "Temple Platform",
-  "description" : "Platforms built from solid temple bricks.",
+  "shortdescription" : "\u795E\u6BBF\u5E73\u53F0",
+  "description" : "\u770B\u8D77\u6765\u50CF\u662F\u7531\u56FA\u5BFA\u7816\u5236\u4F5C\u7684.",
   "footstepSound" : "/sfx/blocks/footstep_stone2.wav"
 }

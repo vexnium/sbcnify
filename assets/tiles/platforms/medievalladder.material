@@ -8,7 +8,7 @@
   "platformVariants" : 3,
   "platformImage" : "medievalladder.png",
   "itemDrop" : "platform",
-  "shortdescription" : "Wooden Ladder",
-  "description" : "A shoddy wooden ladder. What a thrill!",
+  "shortdescription" : "\u6728\u68AF",
+  "description" : "\u8D28\u91CF\u4F4E\u52A3\uFF0C\u4EE5\u6B21\u5145\u597D\uFF0C\u5C31\u8FDE\u8D70\u4E0A\u53BB\u90FD\u98A4\u98A4\u5DCD\u5DCD\u7684\u6728\u5236\u697C\u68AF",
   "footstepSound" : "/sfx/blocks/footstep_lightwood.wav"
 }

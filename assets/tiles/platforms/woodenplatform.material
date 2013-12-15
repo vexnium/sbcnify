@@ -8,7 +8,7 @@
   "platformVariants" : 3,
   "platformImage" : "woodenplatform.png",
   "itemDrop" : "woodenplatform",
-  "shortdescription" : "Wooden Platform",
-  "description" : "Nicely carved wooden platforms.",
+  "shortdescription" : "\u6728\u5236\u5E73\u53F0",
+  "description" : "\u7CBE\u5DE5\u96D5\u7422\u7684\u4E00\u5757\u6728\u677F.",
   "footstepSound" : "/sfx/blocks/footstep_lightwood.wav"
 }

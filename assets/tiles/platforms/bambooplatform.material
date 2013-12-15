@@ -8,7 +8,7 @@
   "platformVariants" : 3,
   "platformImage" : "bambooplatform.png",
   "itemDrop" : "bambooplatform",
-  "shortdescription" : "Bamboo Platform",
-  "description" : "Charmingly constructed bamboo platforms.",
+  "shortdescription" : "\u7AF9\u5236\u5E73\u53F0",
+  "description" : "\u7AF9\u5236\u5E73\u53F0\uFF0C\u6C38\u8FDC\u662F\u90A3\u4E48\u7684\u8FF7\u4EBA.",
   "footstepSound" : "/sfx/blocks/footstep_lightwood.wav"
 }

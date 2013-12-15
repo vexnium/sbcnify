@@ -8,7 +8,7 @@
   "platformVariants" : 3,
   "platformImage" : "woodplatform2.png",
   "itemDrop" : "platform2",
-  "shortdescription" : "Wood Platform",
-  "description" : "A non-descript wood platform.",
+  "shortdescription" : "\u6728\u5236\u697C\u68AF",
+  "description" : "\u5C31\u662F\u4E00\u8282\u6728\u5236\u697C\u68AF\uFF0C\u6CA1\u4EC0\u4E48\u597D\u8BF4\u7684",
   "footstepSound" : "/sfx/blocks/footstep_lightwood.wav"
 }

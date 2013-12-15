@@ -8,7 +8,7 @@
   "platformVariants" : 1,
   "platformImage" : "copperladder.png",
   "itemDrop" : "copperplatform",
-  "shortdescription" : "Copper Ladder",
-  "description" : "A copper ladder.",
+  "shortdescription" : "\u94DC\u68AF",
+  "description" : "\u4E00\u8282\u4E2D\u89C4\u4E2D\u77E9\u7684\u94DC\u68AF.",
   "footstepSound" : "/sfx/blocks/footstep_lightmetal.wav"
 }

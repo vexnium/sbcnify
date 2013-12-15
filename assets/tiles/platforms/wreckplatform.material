@@ -8,7 +8,7 @@
   "platformVariants" : 3,
   "platformImage" : "wreckplatform.png",
   "itemDrop" : "wreckplatform",
-  "shortdescription" : "Wrecked Platform",
-  "description" : "Rusty scaffolding, it doesn't look safe.",
+  "shortdescription" : "\u7834\u635F\u7684\u5E73\u53F0",
+  "description" : "\u751F\u9508\u7684\u811A\u624B\u67B6\uFF0C\u770B\u8D77\u6765\u5341\u5206\u5371\u9669.",
   "footstepSound" : "/sfx/blocks/footstep_girder.wav"
 }
