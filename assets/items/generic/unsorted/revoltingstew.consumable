@@ -2,8 +2,8 @@
   "itemName" : "revoltingstew",
   "rarity" : "common",
   "inventoryIcon" : "revoltingstew.png",
-  "description" : "...whoever made this screwed it up. They screwed it up baaad.",
-  "shortdescription" : "Revolting Stew",
+  "description" : "\u5929\u77E5\u9053\u8FD9\u73A9\u610F\u662F\u54EA\u4E2A\u624B\u6B8B\u7684\u8D27\u505A\u51FA\u6765\u7684.",
+  "shortdescription" : "\u4EE4\u4EBA\u4F5C\u5455\u7684\u7096\u8089",
   "effects" : [ [
       {
         "kind" : "food",

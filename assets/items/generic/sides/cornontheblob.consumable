@@ -2,8 +2,8 @@
   "itemName" : "cornontheblob",
   "rarity" : "common",
   "inventoryIcon" : "cornontheblob.png",
-  "description" : "Your standard ear of sweetcorn, but with dirturchin spread on top. Mmm!",
-  "shortdescription" : "Corn on the Blob",
+  "description" : "\u9664\u4E86\u9ECF\u5728\u4E0A\u9762\u7684\u4E00\u56E2\u4E0D\u660E\u7269\u8D28\u5916\uFF0C\u8FD9\u5757\u7389\u7C73\u770B\u8D77\u6765\u8FD8\u662F\u975E\u5E38\u7F8E\u5473\u7684!",
+  "shortdescription" : "\u5E26\u6C61\u6E0D\u7684\u7389\u7C73",
   "effects" : [ [
       {
         "kind" : "food",

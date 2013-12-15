@@ -2,8 +2,8 @@
   "itemName" : "cheese",
   "rarity" : "common",
   "inventoryIcon" : "cheese.png",
-  "description" : "A wedge of cheese.",
-  "shortdescription" : "Cheese",
+  "description" : "\u8BA9\u4EBA\u6B32\u7F62\u4E0D\u80FD\u7684\u4E00\u5927\u5757\u7F8E\u5473\u5976\u916A.",
+  "shortdescription" : "\u5976\u916A",
   "effects" : [ [
       {
         "kind" : "food",

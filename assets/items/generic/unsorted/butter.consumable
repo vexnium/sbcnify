@@ -2,8 +2,8 @@
   "itemName" : "butter",
   "rarity" : "common",
   "inventoryIcon" : "butter.png",
-  "description" : "For making everything less healthy and more awesome.",
-  "shortdescription" : "Butter",
+  "description" : "\u4E0D\u5065\u5EB7\u4F46\u6781\u4E3A\u5165\u5473\u7684\u8C03\u5473\u54C1.",
+  "shortdescription" : "\u9EC4\u6CB9",
   "handPosition" : [0, 4],
   "effects" : [ [
       {

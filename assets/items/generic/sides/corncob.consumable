@@ -2,8 +2,8 @@
   "itemName" : "corncob",
   "rarity" : "common",
   "inventoryIcon" : "corncob.png",
-  "description" : "A buttery ear of corn on the cob.",
-  "shortdescription" : "Corn Cob",
+  "description" : "\u4E00\u5757\u6D82\u6EE1\u4E86\u5976\u6CB9\u7684\u7389\u7C73\u68D2",
+  "shortdescription" : "\u7389\u7C73\u68D2",
   "effects" : [ [
       {
         "kind" : "food",

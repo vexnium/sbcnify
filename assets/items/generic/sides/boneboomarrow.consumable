@@ -2,8 +2,8 @@
   "itemName" : "boneboomarrow",
   "rarity" : "common",
   "inventoryIcon" : "boneboomarrow.png",
-  "description" : "The creamy, spongey innards of the boneboo fruit.",
-  "shortdescription" : "Boneboo Marrow",
+  "description" : "\u6D77\u7EF5\u72B6\u7C98\u7CCA\u7CCA\u7684\u9AA8\u7AF9\u7CBE\u534E.",
+  "shortdescription" : "\u9AA8\u7AF9\u7CBE\u534E",
   "handPosition" : [0, 4],
   "effects" : [ [
       {

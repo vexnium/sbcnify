@@ -2,8 +2,8 @@
   "itemName" : "bread",
   "rarity" : "common",
   "inventoryIcon" : "bread.png",
-  "description" : "Mmm, fresh out of the oven.",
-  "shortdescription" : "Bread",
+  "description" : "\u55EF\u007E\u65B0\u9C9C\u51FA\u7089!",
+  "shortdescription" : "\u9762\u5305",
   "handPosition" : [0, 4],
   "effects" : [ [
       {
