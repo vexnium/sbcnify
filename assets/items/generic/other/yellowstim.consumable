@@ -2,8 +2,8 @@
   "itemName" : "yellowstim",
   "rarity" : "common",
   "inventoryIcon" : "yellowstim.png",
-  "description" : "A stimpack full of yellow liquid",
-  "shortdescription" : "Yellow Stim Pack",
+  "description" : "\u5192\u7740\u6DE1\u6DE1\u7684\u8367\u5149\u8272\uFF0C\u5E94\u8BE5\u4E0D\u4F1A\u6709\u5371\u9669",
+  "shortdescription" : "\u9EC4\u8272\u836F\u5242",
   "handPosition" : [8, 0],
   "effects" : [ [
       {

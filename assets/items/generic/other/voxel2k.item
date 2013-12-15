@@ -2,6 +2,6 @@
   "itemName" : "voxel2k",
   "rarity" : "Common",
   "inventoryIcon" : "voxel2k.png",
-  "description" : "2000 pixels compressed into a voxel. 40% of pixels are lost during the compression process. Can be refined into 1200 pixels.",
-  "shortdescription" : "2k Voxel"
+  "description" : "\u76F8\u5F53\u4E8E\u5C0F\u91D1\u6761\u7684\u4E24\u500D\u4EF7\u503C\uFF01\u5F53\u7136\uFF0C\u8FD8\u662F\u6307\u9020\u4EF7",
+  "shortdescription" : "\u4E24\u6761\u91D1\u7816"
 }

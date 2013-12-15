@@ -2,8 +2,8 @@
   "itemName" : "bluestim",
   "rarity" : "common",
   "inventoryIcon" : "bluestim.png",
-  "description" : "A stimpack full of blue liquid",
-  "shortdescription" : "Blue Stim Pack",
+  "description" : "\u4E00\u5C0F\u5242\u5145\u6EE1\u4E86\u84DD\u8272\u6DB2\u4F53\u7684\u9488\u7BA1",
+  "shortdescription" : "\u84DD\u8272\u836F\u5242",
   "handPosition" : [8, 0],
   "effects" : [ [
       {

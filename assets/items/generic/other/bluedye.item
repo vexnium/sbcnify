@@ -2,6 +2,6 @@
   "itemName" : "bluedye",
   "rarity" : "common",
   "inventoryIcon" : "bluedye.png",
-  "description" : "A blue dye. Can be used to dye armour.",
-  "shortdescription" : "Blue Dye"
+  "description" : "\u53EF\u4EE5\u7528\u6765\u7ED9\u88C5\u5907\u4E0A\u8272\u7684\u84DD\u8272\u67D3\u6599",
+  "shortdescription" : "\u84DD\u8272\u67D3\u6599"
 }

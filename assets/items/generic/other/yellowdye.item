@@ -2,6 +2,6 @@
   "itemName" : "yellowdye",
   "rarity" : "common",
   "inventoryIcon" : "yellowdye.png",
-  "description" : "A yellow dye. Can be used to dye armour.",
-  "shortdescription" : "Yellow Dye"
+  "description" : "\u53EF\u4EE5\u7528\u6765\u7ED9\u88C5\u5907\u67D3\u8272\u7684\u9EC4\u8272\u67D3\u6599",
+  "shortdescription" : "\u9EC4\u8272\u67D3\u6599"
 }

@@ -2,6 +2,6 @@
   "itemName" : "blueprint",
   "rarity" : "Uncommon",
   "inventoryIcon" : "blueprint.png",
-  "description" : "Used for crafting",
-  "shortdescription" : "Blueprint"
+  "description" : "\u4E00\u5F20\u6742\u4E71\u7684\u8BBE\u8BA1\u56FE",
+  "shortdescription" : "\u84DD\u56FE"
 }

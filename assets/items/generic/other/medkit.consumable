@@ -2,8 +2,8 @@
   "itemName" : "medkit",
   "rarity" : "common",
   "inventoryIcon" : "medkit.png",
-  "description" : "A med kit. For when you absolutely, positively have to be 100% healthy.",
-  "shortdescription" : "Medical Kit",
+  "description" : "\u4E0D\u8981\u95EE\u6211\u4E3A\u4EC0\u4E48\u5403\u8FD9\u73A9\u610F\u80FD\u8BA9\u4F60\u6062\u590D\u5065\u5EB7",
+  "shortdescription" : "\u533B\u836F\u5305",
   "effects" : [ [
       {
         "kind" : "health",

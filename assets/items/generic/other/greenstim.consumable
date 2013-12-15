@@ -2,8 +2,8 @@
   "itemName" : "greenstim",
   "rarity" : "common",
   "inventoryIcon" : "greenstim.png",
-  "description" : "A stimpack full of green liquid",
-  "shortdescription" : "Green Stim Pack",
+  "description" : "\u4E00\u5C0F\u5242\u5145\u6EE1\u4E86\u7EFF\u8272\u6DB2\u4F53\u7684\u9488\u7BA1",
+  "shortdescription" : "\u7EFF\u8272\u836F\u5242",
   "handPosition" : [8, 0],
   "effects" : [ [
       {
